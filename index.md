@@ -9,14 +9,13 @@ layout: home
 ---
 <div style="font-family: 'Source Sans Pro', sans-serif; background: url('/images/banner_no_text.png') no-repeat; background-size: cover; user-select: none;">
 	<center>
-		<h2 class="blackpar_title" >The 2<sup>nd</sup> workshop on<br>Efficient Natural Language and Speech Processing (ENLSP)</h2>
-		<h3 class="blackpar_title">Friday Dec. 2nd 2022, New Orleans <br> <b>In-person</b> (Ballroom C) and <b>Virtual</b> </h3>
+		<h2 class="blackpar_title" >The 1<sup>nd</sup> workshop on<br>Generative AI in Biology (GenBio)</h2>
+		<h3 class="blackpar_title">Friday Dec. 2nd 2023, New Orleans <br> <b>In-person</b> (Ballroom C) and <b>Virtual</b> </h3>
 	</center>
 </div>
 <br>
 <p>
-The second version of the Efficient Natural Language and Speech Processing (ENLSP-II) workshop focuses on fundamental and challenging problems to make natural language and speech processing (especially pre-trained models) more efficient in terms of <b>Data, Model, Training, and Inference</b>. The workshop program offers an interactive platform for gathering different experts and talents from academia and industry through invited talks, panel discussion, paper submissions, reviews, interactive posters, oral presentations and a mentorship program. This will be a unique opportunity to address the efficiency issues of current models, build connections, exchange ideas and brainstorm solutions, and foster future collaborations. The topics of this workshop can be of interest for people working on general machine learning, deep learning, optimization, theory and NLP & Speech applications.
-</p>
+Welcome to the GenBio Workshop! Join us as we explore the exciting intersection of artificial intelligence and biology. Discover how generative AI can revolutionize the fields of protein research, RNA analysis, molecular design, and compound discovery. This workshop is designed to be interactive and practical, equipping you with the skills to utilize generative AI tools in your own biological research. Engage in stimulating discussions and collaborate with experts from diverse backgrounds. Together, let's unlock the potential of Generative AI in Biology. </p>
 
 <br>
 
@@ -24,13 +23,13 @@ The second version of the Efficient Natural Language and Speech Processing (ENLS
 <div class="alert alert-danger" role="alert">
   <h4>Mentoring sessions announcement</h4>
   <p>
-  The deadline for submitting papers to our second version of the Efficient Natural Language and Speech Processing (ENLSP-II) workshop is 25th of September. For that we will be scheduling two mentioring online sessions to answer your questions. Please join us:
+  The deadline for submitting papers to the Generative AI in Biology (GenBio) workshop is 25th of September. For that we will be scheduling two mentioring online sessions to answer your questions. Please join us:
   <br>
   <ul>
-	<li>Tuesday the 6th of September 2022 from 10PM to 11PM (UTC-04:00)</li>
-	<li>Wednesday the 7th of September 2022 from 9AM to 10AM (UTC-04:00)</li>
-	<li>Tuesday the 13th of September 2022 from 10PM to 11PM (UTC-04:00): <a href="https://welink.zhumu.com/j/134854021">link</a></li>
-	<li>Wednesday the 14th of September 2022 from 9AM to 10AM (UTC-04:00): <a href="https://welink.zhumu.com/j/130263276">link</a></li>
+	<li>Tuesday the 6th of September 2023 from 10PM to 11PM (UTC-04:00)</li>
+	<li>Wednesday the 7th of September 2023 from 9AM to 10AM (UTC-04:00)</li>
+	<li>Tuesday the 13th of September 2023 from 10PM to 11PM (UTC-04:00): <a href="https://welink.zhumu.com/j/134854021">link</a></li>
+	<li>Wednesday the 14th of September 2023 from 9AM to 10AM (UTC-04:00): <a href="https://welink.zhumu.com/j/130263276">link</a></li>
   </ul>
   </p>
 </div>
