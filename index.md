@@ -39,10 +39,11 @@ Welcome to the GenBio Workshop! Join us as we explore the exciting intersection 
 
 <h2 class="blackpar_title" id="overview">Overview</h2>
 <p>
-Pre-training a general model using self-supervised learning on huge amount of data and then fine-tuning that model on a specific task has become a generic paradigm in solving many natural language and speech processing tasks. Since then, we have had different types of pre-trained models (e.g. encoder-only such as BERT, decoder-only such as GPT, encoder-decoder such as T5) in very diverse range of scales (from millions to
-more than 500 billion parameters) for different tasks.
+The revolutionary crossroads between artificial intelligence (AI) and biology is truly one of the most exciting frontiers of our time. In this workshop, we'll delve deep into the reasons why generative AI holds paramount significance in the field of biology.
+
+
 <br><br>
-There has been a common practice in the literature to increase the number of parameters of these pre-trained models to improve their performance or their zero/few-shot abilities. Despite the great success of these pre-trained models, it is evident that most of them are largely over-parameterized and their efficiency is under question. Training or deploying these models on devices or even cloud services with limited memory and computational power can be very expensive and challenging. For example, Megatron-Turing with 530B parameters has shown state-of-the-art results in many NLP tasks, but at the cost of using 560 DGX A100 nodes (more than 4000 NVIDIA A100) for training and using more than 300B tokens data. Moreover, delivering such huge models as a service to different clients will require different copies of the model for different tasks. Even fine-tuning the entire large model over a small labeled dataset can lead to overfitting. Therefore, it is of vital importance to invest on future of pre-trained models by enhancing their efficiency in terms of data, modeling, training and inference from different perspectives highlighted in this workshop.
+Artificial Intelligence has emerged as a powerful tool in recent years, opening up possibilities that we could hardly dream of in the past. One such promising AI avenue is Generative AI. Generative models learn and understand the underlying data distribution so well that they can create new data instances that resemble your training data - think of it as producing new knowledge from existing one. In the realm of biology, this ability to generate new, relevant data holds great promise. It heralds a shift in the traditional, reactive model of biological discovery to a proactive, predictive one, enabling us to tackle complex biological questions more efficiently and effectively.
 </p>
 <br>
 <!-- Call for Papers -->
