@@ -44,6 +44,12 @@ The revolutionary crossroads between artificial intelligence (AI) and biology is
 
 <br><br>
 Artificial Intelligence has emerged as a powerful tool in recent years, opening up possibilities that we could hardly dream of in the past. One such promising AI avenue is Generative AI. Generative models learn and understand the underlying data distribution so well that they can create new data instances that resemble your training data - think of it as producing new knowledge from existing one. In the realm of biology, this ability to generate new, relevant data holds great promise. It heralds a shift in the traditional, reactive model of biological discovery to a proactive, predictive one, enabling us to tackle complex biological questions more efficiently and effectively.
+<br><br>	
+One particular application of Generative AI in biology that warrants a special mention is drug discovery. The traditional drug discovery process is both time-consuming and expensive, often taking years and millions of dollars to bring a single drug to market. Generative AI can drastically expedite this process by virtually synthesizing millions of potential compounds and screening them for their drug-like properties. It can create novel molecules that could potentially act as drugs, dramatically cutting down both time and cost.
+Moreover, generative AI models can predict the interaction of these generated molecules with biological systems, paving the way for personalized medicine. By generating unique genomic and proteomic profiles, these models can suggest personalized therapeutic approaches, revolutionizing the way we approach healthcare.
+<br><br>
+We look forward to your participation in this exciting discourse on the future of biology and AI. 
+
 </p>
 <br>
 <!-- Call for Papers -->
