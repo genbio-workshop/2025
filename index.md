@@ -54,69 +54,38 @@ We look forward to your participation in this exciting discourse on the future o
 <br>
 <!-- Call for Papers -->
 <h2 class="blackpar_title" id="call_for_papers">Call for Papers</h2>
-We would like to share some fundamental challenges on improving efficiency of pre- trained models and encourage the NeurIPS community to submit their solutions, ideas, and ongoing work concerning data, model, training, and inference efficiency for NLP and speech processing. The scope of this workshop includes, but not limited to, the following topics:
+We invite researchers, scientists, students, and industry professionals working in the domains of artificial intelligence, machine learning, computational biology, bioinformatics, and related areas to submit their original research or review papers.
+The scope of this workshop includes, but not limited to, the following topics:
 
-<b>Efficient Pre-Training</b> Pre-training is a very expensive process. Even a small modification to the configuration of the models requires the user to redo pre-training.
+<b>Generative AI in drug discovery</b> Generative AI in drug discovery.
 <br>
 <ul>
-	<li>Accelerating the pre-training process</li>
-	<li>Continual/Life-long pre-training and adapting pre-trained models to a new domain</li>
-	<li>Efficient initialization and hyper-parameter tuning (HPT)</li>
-	<li>Better pre-training self-supervised objectives</li>
-	<li>Multi-domain pre-training</li>
-	<li>Data vs. Scale of pre-trained models</li>
-	<li>Pre-training Multimodal (e.g., text–speech) models</li>
-	<li>New efficient architectures for pre-trained models</li>
+	<li>Generative AI in personalized medicine</li>
+	<li>Generative AI in personalized medicine</li>
+	<li>Generative AI in personalized medicine</li>
+	<li>Generative AI in personalized medicine</li>
+
 </ul>
 
 
-<b>Efficient Fine-tuning</b> Fine-tuning large pre-trained models on downstream tasks can be challenging because pre-trained models are very over-parameterized.
+<b>Genomic and proteomic applications of Generative AI</b> Genomic and proteomic applications of Generative AI.Genomic and proteomic applications of Generative AI.
 <br>
 <ul>
-	<li>Parameter-efficient tuning solutions to tune only a portion of the entire network (e.g. adapters)</li>
-	<li>Efficient prompt-based fine-tuning</li>
-	<li>Accelerating the fine-tuning process (e.g. optimizer, and layer-skipping)</li>
-	<li>Efficient federated learning for NLP: reduce the communication costs, tackling heterogeneous data, heterogeneous models.</li>
+	<li>Genomic and proteomic applications of Generative AI</li>
+	<li>Genomic and proteomic applications of Generative AI</li>
+	<li>Genomic and proteomic applications of Generative AI</li>
+	<li>Genomic and proteomic applications of Generative AI</li>
 </ul>
 
 
-<b>Data Efficiency</b> Pre-trained models rely on a huge amount of unlabeled data which makes the training very sample inefficient.
+<b>Special Track) Challenges and future directions in integrating AI and biology</b>
 <br>
 <ul>
-	<li>Sample efficient training, training with less data, few-shot and zero-shot learning</li>
-	<li>Sample efficient data-augmentation, identifying which training samples should be augmented</li>
-	<li>Data compression, data distillation</li>
-	<li>Data selection, how to improve the quality of pre-training data</li>
+	<li>Challenges and future directions in integrating AI and biology</li>
+		<li>Challenges and future directions in integrating AI and biology</li>
+	<li>Challenges and future directions in integrating AI and biology</li>
 </ul>
 
-<b>Inference Efficiency</b> How can we reduce the inference time or memory footprint of a trained model for a particular task?
-<br>
-<ul>
-	<li>Neural model compression techniques such as quantization, pruning, layer decomposition and knowledge distillation (KD) for NLP and Speech</li>
-	<li>Impact of different compression techniques on the inductive biases learned by the original models</li>
-	<li>Combined compression techniques for more efficient NLP and speech models</li>
-	<li>Improving efficiency of KD by removing the teacher</li>
-	<li>Extreme model compression (high compression ratio) for very large pre-trained language models</li>
-</ul>
-
-<b>Special Track) Efficient Graph Learning for NLP</b>
-<br>
-<ul>
-	<li>Automatically transforming natural language into graph-structured data</li>
-	<li>Representation learning on multi-relational or heterogeneous graphs</li>
-	<li>Learning the mapping between complex data structures, like Graph2Seq, Graph2Tree, Graph2Graph</li>
-	<li>Graph learning with pre-trained language models</li>
-</ul>
-
-<b>Other Efficient Applications</b> Pre-trained models are used in many tasks in NLP that efficiency can be their concern.
-<br>
-<ul>
-	<li>Efficient Dense Retrieval</li>
-	<li>Large language model as a service</li>
-	<li>Training models on device</li>
-	<li>Incorporating external knowledge into pre-trained models</li>
-	<li>Unifying different pre-training models</li>
-</ul>
 
 <br>
 
