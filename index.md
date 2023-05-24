@@ -134,35 +134,6 @@ Authors can submit up to 100 MB of supplementary materials separately. Authors a
 {% include organizers.html %}
 </p>
 
-<h2 class="blackpar_title" id="Organizers">Volunteers</h2>
-<div class="row_perso">
-	<div class="card_perso column_perso justify-content-center" style="margin-left:24%;">
-	  <img src="/images/khalil_bibi.png" alt="Khalil Bibi" class="img_card_perso">
-	  <div class="container_perso" >
-		<center>
-		<h6>
-			<b>Khalil Bibi</b>
-			<br>
-			Huawei Noah's Ark Lab
-		</h6>
-		</center>
-	  </div>
-	</div>
-	<div class="card_perso column_perso">
-	  <img src="/images/Soheila.png" alt="Soheila Samiee" class="img_card_perso">
-	  <div class="container_perso">
-		<center>
-		<h6>
-			<b>Soheila Samiee</b>
-			<br>
-			BASF
-		</h6>
-		</center>
-	  </div>
-	</div>
-</div>
-
-
 <br><br>
 
 <!-- Technical Committee -->
