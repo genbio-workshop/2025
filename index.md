@@ -9,8 +9,8 @@ layout: home
 ---
 <div style="font-family: 'Source Sans Pro', sans-serif; background: url('/images/bd09b65cd93a3ea5f1ffd024eff99f5166d1a712-941x720.jpeg') no-repeat; background-size: ; user-select: none;">
 	<center>
-		<h2 class="blackpar_title" >The 1<sup>nd</sup> workshop on<br>Generative AI in Biology (GenBio)</h2>
-		<h3 class="blackpar_title">Friday Dec. 2nd 2023, New Orleans <br> <b>In-person</b> (Ballroom C) and <b>Virtual</b> </h3>
+		<h2 class="blackpar_title style="color: white;" >The 1<sup>nd</sup> workshop on<br>Generative AI in Biology (GenBio)</h2>
+		<h3 class="blackpar_title style="color: white;">Friday Dec. 2nd 2023, New Orleans <br> <b>In-person</b> (Ballroom C) and <b>Virtual</b> </h3>
 	</center>
 </div>
 <br>
