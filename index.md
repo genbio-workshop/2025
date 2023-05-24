@@ -8,7 +8,7 @@
 layout: home
 ---
 <div style="display: flex; align-items: center; justify-content: center; font-family: 'Source Sans Pro', sans-serif; background: url('/project_synthesis.png') no-repeat; background-size: cover; user-select: none; height: 400px;">
-	<h2 class="blackpar_title" style="text-align: center; font-weight: bold; line-height: 1.2;">The 1<sup>nd</sup> workshop on<br>Generative AI in Biology (GenBio)</h2>
+	<h2 class="blackpar_title" style="text-align: center; font-weight: bold; line-height: 1.2;">The 1<sup>nd</sup> workshop on Generative AI in Biology (GenBio)</h2>
 	
 <br><br>
 
