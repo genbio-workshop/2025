@@ -7,12 +7,13 @@
 # <h3 class="blackpar_title">(Models, Training and Inference)</h3>
 layout: home
 ---
-<div style="font-family: 'Source Sans Pro', sans-serif; background: url('/project_synthesis.png') no-repeat; background-size: cover; user-select: none; height: 400px;">
+<div style="display: flex; align-items: center; font-family: 'Source Sans Pro', sans-serif; background: url('/project_synthesis.png') no-repeat; background-size: cover; user-select: none; height: 400px;">
 	<center>
 		<h2 class="blackpar_title" >The 1<sup>nd</sup> workshop on<br>Generative AI in Biology (GenBio)</h2>
 		<h3 class="blackpar_title">Friday Dec. 2nd 2023, New Orleans <br> <b>In-person</b> (Ballroom C) and <b>Virtual</b> </h3>
 	</center>
 </div>
+
 <br>
 <p>
 Welcome to the GenBio Workshop! Join us as we explore the exciting intersection of artificial intelligence and biology. Discover how generative AI can revolutionize the fields of protein research, RNA analysis, molecular design, and compound discovery. This workshop is designed to be interactive and practical, equipping you with the skills to utilize generative AI tools in your own biological research. Engage in stimulating discussions and collaborate with experts from diverse backgrounds. Together, let's unlock the potential of Generative AI in Biology. </p>
