@@ -200,12 +200,12 @@ Authors can submit up to 100 MB of supplementary materials separately. Authors a
 <div class="row">
 	<div class="col">
 		<center>
-			<img src="/images/huawei_logo.png">
+			<img src="">
 		</center>
 	</div>
 	<div class="col">
 		<center>
-			<img src="/images/noahs_ark_lab_logo.png" width="250px">
+			<img src="" width="250px">
 		</center>
 	</div>
 </div>
@@ -214,12 +214,12 @@ Authors can submit up to 100 MB of supplementary materials separately. Authors a
 <div class="row">
 	<div class="col">
 		<center>
-			<img src="/images/BASF_logo.png" width="250px">
+			<img src="" width="250px">
 		</center>
 	</div>
 	<div class="col">
 		<center>
-			<img src="/images/rbc_logo.svg" width="250px">
+			<img src="" width="250px">
 		</center>
 	</div>
 </div>
