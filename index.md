@@ -7,7 +7,7 @@
 # <h3 class="blackpar_title">(Models, Training and Inference)</h3>
 layout: home
 ---
-<div style="display: flex; align-items: center; justify-content: center; font-family: 'Source Sans Pro', sans-serif; background: url('/project_synthesis.png') no-repeat; background-size: cover; user-select: none; height: 400px;">
+<div style="display: flex; align-items: center; justify-content: center; font-family: 'Source Sans Pro', sans-serif; background: url('/project_synthesis.png') no-repeat; background-size: cover; user-select: none; height: 400px; padding: 0 20px;">
 	<h1 class="blackpar_title" style="text-align: center; font-weight: bold; line-height: 1.2;">The 1<sup>nd</sup> workshop on Generative AI in Biology (GenBio)</h1>
 	<br><br>
 	<h3 class="blackpar_title" style="text-align: center; font-weight: bold; line-height: 1.2;">Friday Dec. 2nd 2023, New Orleans In-person (Ballroom C) and Virtual </h3>
