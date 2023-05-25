@@ -14,6 +14,15 @@ dl, dd, ol, ul, figure {
 }
 
 
+p, ul, ol {
+  margin: 1em 10%;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 1em 10%;
+}
+
+
 
 /**
  * Basic styling
@@ -86,9 +95,6 @@ figcaption {
 /**
  * Lists
  */
-ul, ol {
-  margin-left: $spacing-unit;
-}
 
 li {
   > ul,
@@ -201,15 +207,21 @@ pre {
   max-width: calc(#{$content-width} - (#{$spacing-unit}));
   margin-right: auto;
   margin-left: auto;
-  padding-right: $spacing-unit / 2;
-  padding-left: $spacing-unit / 2;
+  padding-right: 0; //$spacing-unit / 2;
+  padding-left: 0; //$spacing-unit / 2;
   @extend %clearfix;
 
   @media screen and (min-width: $on-large) {
     max-width: calc(#{$content-width} - (#{$spacing-unit} * 2));
-    padding-right: $spacing-unit;
-    padding-left: $spacing-unit;
+    padding-right: 0; //$spacing-unit;
+    padding-left: 0; //$spacing-unit;
   }
+}
+
+
+.inverted {
+  background-color: $text-color;
+  color: $background-color;
 }
 
 

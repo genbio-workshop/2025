@@ -15,13 +15,13 @@ header_menu:
   Schedule:
   Technical Committee:
   Previous Editions:
-    
+
 show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
-  skin: classic_khalil_v1
+  skin: dark
   date_format: "%b %-d, %Y"
 
   # generate social links in footer

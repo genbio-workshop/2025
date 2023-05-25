@@ -1,5 +1,3 @@
-- title: Home
-  url: /index.html
 - title: Overview
   url: /index.html#overview
 - title: Call for papers
@@ -9,9 +7,9 @@
 - title: Speakers
   url: /index.html#speakers
 - title: Schedule
-  url: /index.html#schedule 
+  url: /index.html#schedule
 - title: Technical committee
-  url: /index.html#technical_committee 
+  url: /index.html#technical_committee
 - title: Accepted papers
   url: /accepted_papers.html
 - title: Poster session
