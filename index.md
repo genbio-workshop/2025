@@ -7,7 +7,7 @@
 # <h3 class="blackpar_title">(Models, Training and Inference)</h3>
 layout: home
 ---
-<div style="display: flex; align-items: center; justify-content: center; background: url('/images/header.jpg') no-repeat; background-size: cover; user-select: none; height: 600px; padding: 0;">
+<div style="display: flex; align-items: center; justify-content: center; background: url('images/header.jpg') no-repeat; background-size: cover; user-select: none; height: 600px; padding: 0;">
     <h1 class="blackpar_title" style="text-align: center; font-weight: bold; line-height: 1.2; text-shadow: 0px 0px 5px black;">The 1<sup>st</sup> workshop on Generative AI for Biology</h1>
 </div>
 
