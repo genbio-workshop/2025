@@ -3,7 +3,8 @@ author:
   name: GenBio NeurIPS Workshop 2023
   email: genbioworkshop@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  GenBio highlights some fundamental problems in AI and Biology.
+  GenBio focuses on solving fundamental problems in biology
+  through generative AI.
 
 # Customized links for main menu
 header_menu:
