@@ -12,23 +12,26 @@
     - name: Rachel Wu
       affiliation: MIT
       photo: rachel.jpg
-    - name: Zhenqiao Song
-      affiliation: UCSB
-      photo: sample.jpg      
 - num_row: 1
   organizers:
+    - name: Zhenqiao Song
+      affiliation: UCSB
+      photo: sample.jpg   
     - name: Fan Yang
       affiliation: Tencent
       photo: fanyang.jpeg
     - name: Lei Li
       affiliation: UCSB
       photo: sample.png
+
+- num_row: 2
+  organizers:
     - name: Regina Barzilay
       affiliation: MIT
       photo: sample.png
     - name: Mark Gerstein
       affiliation: Yale University
-      photo: markgerstein.jpeg
+      photo: sample.png
     - name: Jure Leskovec
       affiliation: Stanford University
-      photo: sample.jpg
+      photo: sample.png
