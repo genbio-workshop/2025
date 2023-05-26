@@ -14,8 +14,12 @@ dl, dd, ol, ul, figure {
 }
 
 
-p, ul, ol {
+p {
   margin: 1em 10%;
+}
+
+ul, ol {
+  margin: 1em calc(10% + 2em);
 }
 
 h1, h2, h3, h4, h5, h6 {

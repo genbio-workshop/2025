@@ -3,54 +3,35 @@
     - name: AA
       title: Dr.
       affiliation: University
-      photo: .jpg
+      photo: sample.png
     - name: AA
       title: Dr.
       affiliation: University
-      photo: .jpg
+      photo: sample.png
     - name: AA
       title: Dr.
       affiliation: University
-      photo: .jpg
+      photo: sample.png
     - name: AA
       title: Dr.
       affiliation: University
-      photo: .jpg
-      
+      photo: sample.png
+
 - num_row: 2
   speakers:
     - name: AA
       title: Dr.
       affiliation: University
-      photo: .jpg
+      photo: sample.png
     - name: AA
       title: Dr.
       affiliation: University
-      photo: .jpg
+      photo: sample.png
     - name: AA
       title: Dr.
       affiliation: University
-      photo: .jpg
+      photo: sample.png
     - name: AA
       title: Dr.
       affiliation: University
-      photo: .jpg
-      
-- num_row: 3
-  speakers:
-    - name: AA
-      title: Dr.
-      affiliation: University
-      photo: .jpg
-    - name: AA
-      title: Dr.
-      affiliation: University
-      photo: .jpg
-    - name: AA
-      title: Dr.
-      affiliation: University
-      photo: .jpg
-    - name: AA
-      title: Dr.
-      affiliation: University
-      photo: .jpg
+      photo: sample.png

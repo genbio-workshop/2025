@@ -116,12 +116,38 @@
 
 .highlight .il { color: #F78C6C; }
 
+/* Create two equal columns that floats next to each other */
+.column_perso { float: left; width: 25%; padding: 10px; }
+
+/* margins */
+.row_perso { margin: 1em 10%; }
+
+/* Clear floats after the columns */
+.row_perso:after { content: ""; display: table; clear: both; }
+
+.img_card_perso { width: 100%; border-radius: 50%; }
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) { .column_perso { width: 75%; display: block; margin-bottom: 20px; margin-left: 12%; } .img_card_perso { width: 75%; border-radius: 50%; margin-left: 12%; } }
+
+@media screen and (min-width: 600px) { #to_right { margin-left: 13%; } }
+
+.card_perso { box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.2); transition: 0.3s; }
+
+.card_perso:hover { box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2); }
+
+.container_perso { padding: 2px 16px; }
+
+.par_panel_perso { text-align: justify; text-justify: inter-word; }
+
 html { font-size: 16px; }
 
 /** Reset some basic elements */
 body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure { margin: 0; padding: 0; }
 
-p, ul, ol { margin: 1em 10%; }
+p { margin: 1em 10%; }
+
+ul, ol { margin: 1em calc(10% + 2em); }
 
 h1, h2, h3, h4, h5, h6 { margin: 1em 10%; }
 

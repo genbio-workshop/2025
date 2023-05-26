@@ -65,10 +65,9 @@ We look forward to your participation in this exciting discourse on the future o
 We invite researchers, scientists, students, and industry professionals working in the domains of artificial intelligence, machine learning, computational biology, bioinformatics, and related areas to submit their original research or review papers.
 The scope of this workshop includes, but not limited to, the following topics:
 </p>
-<p>
 
-<b>Generative AI in drug discovery</b> Generative AI in drug discovery.
-<br>
+<h5>Generative AI for scientific discovery</h5>
+
 <ul>
     <li>Generative AI in personalized medicine</li>
     <li>Generative AI in personalized medicine</li>
@@ -76,29 +75,21 @@ The scope of this workshop includes, but not limited to, the following topics:
     <li>Generative AI in personalized medicine</li>
 
 </ul>
-</p>
-<p>
 
-<b>Genomic and proteomic applications of Generative AI</b> Genomic and proteomic applications of Generative AI.Genomic and proteomic applications of Generative AI.
-<br>
+<h5>Genomic and proteomic</h5>
 <ul>
     <li>Genomic and proteomic applications of Generative AI</li>
     <li>Genomic and proteomic applications of Generative AI</li>
     <li>Genomic and proteomic applications of Generative AI</li>
     <li>Genomic and proteomic applications of Generative AI</li>
 </ul>
-</p>
-<p>
 
-<b>Special Track) Challenges and future directions in integrating AI and biology</b>
-<br>
+<h5>Challenges and future directions in integrating AI and biology</h5>
 <ul>
     <li>Challenges and future directions in integrating AI and biology</li>
-        <li>Challenges and future directions in integrating AI and biology</li>
+    <li>Challenges and future directions in integrating AI and biology</li>
     <li>Challenges and future directions in integrating AI and biology</li>
 </ul>
-</p>
-<p>
 
 
 <h2 class="blackpar_title">Submission Instructions</h2>
@@ -121,7 +112,6 @@ Authors can submit up to 100 MB of supplementary materials separately. Authors a
 </ul>
 </p>
 
-<!--Confirmed Speakers-->
 <h2 class="blackpar_title" id="speakers">Confirmed Speakers</h2>
 <p>
 {% include speakers.html %}

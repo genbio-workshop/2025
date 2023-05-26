@@ -93,3 +93,71 @@ $table-border-color:    $border-color-01 !default;
   .vi    { color: #EEFFFF } // Name.Variable.Instance
   .il    { color: #F78C6C } // Literal.Number.Integer.Long
 }
+
+/* Create two equal columns that floats next to each other */
+.column_perso {
+  float: left;
+  width: 25%;
+  padding: 10px;
+  //height: auto; /* Should be removed. Only for demonstration */
+}
+
+/* margins */
+.row_perso {
+  margin: 1em 10%;
+}
+
+/* Clear floats after the columns */
+.row_perso:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.img_card_perso{
+	width:100%;
+	border-radius:50%;
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .column_perso {
+    width: 75%;
+    display: block;
+    margin-bottom: 20px;
+	margin-left: 12%;
+  }
+
+  .img_card_perso{
+	width: 75%;
+	border-radius:50%;
+		margin-left: 12%;
+
+	}
+}
+
+@media screen and (min-width: 600px) {
+	#to_right{margin-left:13%;}
+}
+
+.card_perso {
+  box-shadow: 0 0px 0px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  //width: 25%;
+}
+
+.card_perso:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+
+}
+
+.container_perso {
+  padding: 2px 16px;
+}
+
+.par_panel_perso {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+
