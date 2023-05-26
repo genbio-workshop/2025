@@ -5,21 +5,30 @@
       photo: minkai.jpg
     - name: Xiangru Tang
       affiliation: Yale University
-      photo: sample.png
+      photo: xiangru-photo.png
     - name: Wenxian Shi
       affiliation: MIT
       photo: wenxian.jpg
     - name: Rachel Wu
       affiliation: MIT
       photo: rachel.jpg
+    - name: Zhenqiao Song
+      affiliation: UCSB
+      photo: sample.jpg      
 - num_row: 1
   organizers:
-    - name: A
-      affiliation: B University
+    - name: Fan Yang
+      affiliation: Tencent
+      photo: fanyang.jpeg
+    - name: Lei Li
+      affiliation: UCSB
       photo: sample.png
-    - name: A
-      affiliation: B University
+    - name: Regina Barzilay
+      affiliation: MIT
       photo: sample.png
-    - name: A
-      affiliation: B University
-      photo: sample.png
+    - name: Mark Gerstein
+      affiliation: Yale University
+      photo: markgerstein.jpeg
+    - name: Jure Leskovec
+      affiliation: Stanford University
+      photo: sample.jpg
