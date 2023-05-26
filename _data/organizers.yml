@@ -2,16 +2,16 @@
   organizers:
     - name: Minkai Xu
       affiliation: Stanford University
-      photo: sample.png
+      photo: minkai.jpg
     - name: Xiangru Tang
       affiliation: Yale University
       photo: sample.png
-    - name: A
-      affiliation: B University
-      photo: sample.png
-    - name: A
-      affiliation: B University
-      photo: sample.png
+    - name: Wenxian Shi
+      affiliation: MIT
+      photo: wenxian.jpg
+    - name: Rachel Wu
+      affiliation: MIT
+      photo: rachel.jpg
 - num_row: 1
   organizers:
     - name: A
