@@ -23,12 +23,12 @@
     - name: Lei Li
       affiliation: UCSB
       photo: sample.png
-
-- num_row: 2
-  organizers:
     - name: Regina Barzilay
       affiliation: MIT
       photo: sample.png
+
+- num_row: 2
+  organizers:
     - name: Mark Gerstein
       affiliation: Yale University
       photo: sample.png
