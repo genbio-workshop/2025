@@ -22,7 +22,7 @@
       photo: fan_yang.jpeg
     - name: Lei Li
       affiliation: UCSB
-      photo: leili.png
+      photo: leili.jpg
 - num_row: 3
   organizers:
     - name: Regina Barzilay
@@ -31,7 +31,6 @@
     - name: Mark Gerstein
       affiliation: Yale
       photo: mark_gerstein.jpeg
-    
     - name: Jure Leskovec
       affiliation: Stanford
       photo: sample.png
