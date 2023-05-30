@@ -15,8 +15,12 @@ layout: home
 
 <br>
 <p>
-Welcome to the GenBio Workshop! Join us as we explore the exciting intersection of artificial intelligence and biology. Discover how generative AI can revolutionize the fields of protein research, RNA analysis, molecular design, and compound discovery. This workshop is designed to be interactive and practical, equipping you with the skills to utilize generative AI tools in your own biological research. Engage in stimulating discussions and collaborate with experts from diverse backgrounds. Together, let's unlock the potential of Generative AI in Biology. </p>
-
+Welcome to the GenBio Workshop! Join us as we explore the exciting intersection of artificial intelligence and biology.
+Discover how generative AI is revolutionizing protein research, RNA analysis, molecular design, drug discovery, and more.
+This workshop is designed to be interactive and practical,
+equipping you with the skills to utilize generative AI tools in your own biological research.
+Engage in stimulating discussions and collaborate with experts from diverse backgrounds.
+Together, let's unlock the potential of generative AI for biology.</p>
 <br>
 
 <!--
@@ -44,16 +48,28 @@ Welcome to the GenBio Workshop! Join us as we explore the exciting intersection 
 <br><br>
 <h2 class="blackpar_title" id="overview">Overview</h2>
 <p>
-The revolutionary crossroads between artificial intelligence (AI) and biology is truly one of the most exciting frontiers of our time. In this workshop, we'll delve deep into the reasons why generative AI holds paramount significance in the field of biology.
+The revolutionary crossroads between artificial intelligence (AI) and biology
+is one of the most exciting frontiers of our time.
+In this workshop, we will dive deeply into the implications
+of generative AI for biological discovery, drug discovery, and translational medicine.
 </p>
 <p>
-Artificial Intelligence has emerged as a powerful tool in recent years, opening up possibilities that we could hardly dream of in the past. One such promising AI avenue is Generative AI. Generative models learn and understand the underlying data distribution so well that they can create new data instances that resemble your training data - think of it as producing new knowledge from existing one. In the realm of biology, this ability to generate new, relevant data holds great promise. It heralds a shift in the traditional, reactive model of biological discovery to a proactive, predictive one, enabling us to tackle complex biological questions more efficiently and effectively.
+Over the past year, generative AI models have led to tremendous breakthroughs,
+from image and text generation, to protein folding and design.
+These recent successes illustrate the incredible potential of generative AI not
+only for digital applications, but also for basic science and healthcare.
+We are now able to predict protein structure from sequence alone; to
+characterize the function and interactions of biomolecules; to design such
+molecules never-before-seen in nature; and more.
+The impacts are profound: through generative AI, we can systematically
+understand and reprogram biology at an unprecedented level.
 </p>
 <p>
-One particular application of Generative AI in biology that warrants a special mention is drug discovery. The traditional drug discovery process is both time-consuming and expensive, often taking years and millions of dollars to bring a single drug to market. Generative AI can drastically expedite this process by virtually synthesizing millions of potential compounds and screening them for their drug-like properties. It can create novel molecules that could potentially act as drugs, dramatically cutting down both time and cost.
-Moreover, generative AI models can predict the interaction of these generated molecules with biological systems, paving the way for personalized medicine. By generating unique genomic and proteomic profiles, these models can suggest personalized therapeutic approaches, revolutionizing the way we approach healthcare.
-</p>
-<p>
+The goals of this workshop are to bridge the gap between the machine learning and biological
+communities;
+to connect leading researchers from both industry and academia;
+and to gain
+critical insights into the future of generative-AI-driven biology.
 We look forward to your participation in this exciting discourse on the future of biology and AI.
 </p>
 
@@ -63,42 +79,83 @@ We look forward to your participation in this exciting discourse on the future o
 
 <p>
 We invite researchers, scientists, students, and industry professionals working in the domains of artificial intelligence, machine learning, computational biology, bioinformatics, and related areas to submit their original research or review papers.
-The scope of this workshop includes, but not limited to, the following topics:
+The scope of this workshop includes, but not limited to, the following topics.
 </p>
 
-<h5>Generative AI for scientific discovery</h5>
+<h5>Designing novel and useful biomolecules</h5>
 
 <ul>
-    <li>Generative AI in personalized medicine</li>
-    <li>Generative AI in personalized medicine</li>
-    <li>Generative AI in personalized medicine</li>
-    <li>Generative AI in personalized medicine</li>
+    <li>
+        <b>Rational protein design:</b>
+        Prediction and
+        optimization of protein sequences and/or structures,
+        incorporating constraints and prior
+        knowledge
+    </li>
+    <li>
+        <b>Small molecule drug design:</b>
+        Discovery and optimization of novel and
+        effective small molecule therapeutics, incorporating information
+        about the biological context
+    </li>
+    <li><b>Next frontiers of de-novo design:</b>
+        Designing other biomolecules including
+        peptides, oligonucleotides, antibodies, or targeted degraders
+    </li>
 
 </ul>
 
-<h5>Genomic and proteomic</h5>
+<h5>Large language models for scientific discovery</h5>
 <ul>
-    <li>Genomic and proteomic applications of Generative AI</li>
-    <li>Genomic and proteomic applications of Generative AI</li>
-    <li>Genomic and proteomic applications of Generative AI</li>
-    <li>Genomic and proteomic applications of Generative AI</li>
+    <li><b>Large language model-assisted medical diagnosis:</b>
+        Incorporating (multi-modal) patient data,
+        calibration and robustness, incorporating existing medical knowledge,
+        communicating outcomes.
+    </li>
+    <li><b>Literature summarization and analysis:</b> literature
+    summarization, structured information extraction, identifying
+    knowledge gaps and uncovering novel connections, formulation of
+    scientific hypotheses</li>
 </ul>
 
-<h5>Challenges and future directions in integrating AI and biology</h5>
+<h5>Bridging the gap between AI and biology (Special Track)</h5>
 <ul>
-    <li>Challenges and future directions in integrating AI and biology</li>
-    <li>Challenges and future directions in integrating AI and biology</li>
-    <li>Challenges and future directions in integrating AI and biology</li>
+    <li><b>Finding common ground:</b>
+    systematic barriers, biological experiment
+    design with AI-in-the-loop</li>
+    <li><b>Identifying the right problems:</b> pressing challenges in biology that
+    are difficult to address via traditional means, gap between biological need
+    and existing machine learning algorithms</li>
+    <li><b>Success stories:</b> how have you used generative AI for biology?</li>
 </ul>
 
 
 <h2 class="blackpar_title">Submission Instructions</h2>
 <p>
-You are invited to submit your papers in our CMT submission <a href="https://cmt3.research.microsoft.com/genbio2023">portal</a>. All the submitted papers have to be anonymous for double-blind review. We expect each paper will be reviewed by at least three reviewers. The content of the paper (excluding the references and supplementary materials) should not be longer than 4 pages, strictly following the NeurIPS template style (which can be found <a href="https://neurips.cc/Conferences/2022/PaperInformation/StyleFiles">here</a>).
+You are invited to submit your papers in our CMT submission <a href="https://cmt3.research.microsoft.com/genbio2023">portal</a>.
+All submissions must be anonymous for double-blind review.
+We expect each paper to be reviewed by at least three reviewers.
+The content of the paper (excluding the references and supplementary materials) should not be longer than 4 pages,
+with strict adherence to the NeurIPS template style,
+which may be found <a href="https://neurips.cc/Conferences/2022/PaperInformation/StyleFiles">here</a>.
 </p>
 <p>
-Authors can submit up to 100 MB of supplementary materials separately. Authors are highly encouraged to submit their codes for reproducibility purposes. According to the guideline of the NeurIPS workshops, already published papers are not encouraged for submission, but you are allowed to submit your ArXiv papers or the ones which are under submission. Moreover, a work that is presented at the main NeurIPS conference should not appear in a workshop. Please make sure to indicate the complete list of conflict of interests for all the authors of your paper. To encourage higher quality submissions, our sponsors are offering the <b>Best Paper</b> and the <b>Best Poster</b> Award to qualified outstanding original oral and poster presentations (upon nomination of the reviewers). Also, we will give one <b>outstading paper certification</b> for our special track. Bear in mind that our workshop is not archival, but the accepted papers will be hosted on the workshop website.
-
+Authors may submit up to 100 MB of supplementary materials separately.
+Authors are highly encouraged to submit their code for reproducibility.
+</p>
+<p>
+According to the NeurIPS workshop guidelines, we do not encourage the
+re-submission of already-published papers,
+but you are allowed to submit ArXiv pre-prints or those currently under submission.
+Moreover, a work that is presented at the NeurIPS main conference should not appear in a workshop.
+Please be sure to indicate conflicts of interest for all authors on your paper.
+</p>
+<p>
+To encourage higher quality submissions, our sponsors will offer <b>Best Paper</b> and <b>Best Poster</b> Awards
+to outstanding oral and poster presentations, upon nomination by the reviewers.
+We will also award one <b>outstanding paper certification</b> for our special track.
+Bear in mind that our workshop is not archival,
+but accepted papers will be hosted on the workshop website.
 </p>
 
 

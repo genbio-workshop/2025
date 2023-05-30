@@ -145,11 +145,13 @@ html { font-size: 14px; }
 /** Reset some basic elements */
 body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure { margin: 0; padding: 0; }
 
-p { margin: 1em 10%; }
+p { margin: 1em 10%; font-weight: 300; }
 
 ul, ol { margin: 1em calc(10% + 2em); }
 
 h1, h2, h3, h4, h5, h6 { margin: 1em 10%; }
+
+b { font-weight: 700; }
 
 /** Basic styling */
 body { font: 400 14px/1.5 Comfortaa, -apple-system, BlinkMacSystemFont, "Segoe UI", "Segoe UI Symbol", "Segoe UI Emoji", "Apple Color Emoji", Roboto, Helvetica, Arial, sans-serif; color: #fafafa; background-color: #061828; -webkit-text-size-adjust: 100%; -webkit-font-feature-settings: "kern" 1; -moz-font-feature-settings: "kern" 1; -o-font-feature-settings: "kern" 1; font-feature-settings: "kern" 1; font-kerning: normal; display: flex; min-height: 100vh; flex-direction: column; overflow-wrap: break-word; }
