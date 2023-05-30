@@ -10,7 +10,11 @@
 			  <div class="container_perso" >
 				<center>
 				<h6>
-					<b>{{ organizer.name }}</b>
+                    {% if organizer.title %}
+                        <b>{{ organizer.title }}<br>{{ organizer.name }}</b>
+                    {% else %}
+                        <b>{{ organizer.name }}</b>
+                    {% endif %}
 					<br>
 					{{ organizer.affiliation }}
 				</h6>
@@ -30,7 +34,11 @@
 			  <div class="container_perso" >
 				<center>
 				<h6>
-					<b>{{ organizer.name }}</b>
+                    {% if organizer.title %}
+                        <b>{{ organizer.title }}<br>{{ organizer.name }}</b>
+                    {% else %}
+                        <b>{{ organizer.name }}</b>
+                    {% endif %}
 					<br>
 					{{ organizer.affiliation }}
 				</h6>

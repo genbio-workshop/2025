@@ -118,10 +118,10 @@ Authors can submit up to 100 MB of supplementary materials separately. Authors a
 </p>
 
 
-<h2 class="blackpar_title" id="speakers">Panelists</h2>
+<!--<h2 class="blackpar_title" id="speakers">Panelists</h2>
 <p>
 {% include panelists.html %}
-</p>
+</p>-->
 
 <!-- Schedule -->
 <h2 class="blackpar_title" id="schedule">Schedule (New Orleans Time Zone)</h2>

@@ -3,12 +3,12 @@
     - name: Minkai Xu
       affiliation: Stanford
       photo: minkai.jpg
-    - name: Robert Tang
-      affiliation: Yale
-      photo: xiangru.jpg
     - name: Wenxian Shi
       affiliation: MIT
       photo: wenxian.jpg
+    - name: Robert Tang
+      affiliation: Yale
+      photo: xiangru.jpg
     - name: Rachel Wu
       affiliation: MIT
       photo: rachel.jpg
@@ -17,23 +17,29 @@
     - name: Zhenqiao Song
       affiliation: UCSB
       photo: zhenqiao_song.jpeg
-    - name: Fan Yang
-      affiliation: Tencent
-      photo: fan_yang.jpeg
-    - name: Lei Li
-      affiliation: UCSB
-      photo: leili.jpg
-- num_row: 3
-  organizers:
-    - name: Regina Barzilay
-      affiliation: MIT
-      photo: regina.jpg
     - name: Mark Gerstein
+      title: Professor
       affiliation: Yale
       photo: mark_gerstein.jpeg
-    - name: Jure Leskovec
-      affiliation: Stanford
-      photo: jure.jpeg
+    - name: Regina Barzilay
+      title: Professor
+      affiliation: MIT
+      photo: regina.jpg
+- num_row: 3
+  organizers:
+    - name: Fan Yang
+      title: Dr.
+      affiliation: Tencent
+      photo: fan_yang.jpeg
     - name: Stefano Ermon
+      title: Professor
       affiliation: Stanford
       photo: ermon.jpeg
+    - name: Jure Leskovec
+      title: Professor
+      affiliation: Stanford
+      photo: jure.jpeg
+    - name: Lei Li
+      title: Professor
+      affiliation: UCSB
+      photo: leili.jpg
