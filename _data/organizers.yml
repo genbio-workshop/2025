@@ -17,14 +17,14 @@
     - name: Zhenqiao Song
       affiliation: UCSB
       photo: zhenqiao_song.jpeg
-    - name: Fan Yang
-      title: Dr.
-      affiliation: Tencent
-      photo: fan_yang.jpeg
     - name: Mark Gerstein
       title: Professor
       affiliation: Yale
       photo: mark_gerstein.jpeg
+    - name: Fan Yang
+      title: Dr.
+      affiliation: Tencent
+      photo: fan_yang.jpeg
 - num_row: 3
   organizers:
     - name: Regina Barzilay
