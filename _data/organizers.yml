@@ -27,6 +27,10 @@
       photo: fan_yang.jpeg
 - num_row: 3
   organizers:
+    - name: Lei Li
+      title: Professor
+      affiliation: UCSB
+      photo: leili.jpg
     - name: Regina Barzilay
       title: Professor
       affiliation: MIT
@@ -39,7 +43,3 @@
       title: Professor
       affiliation: Stanford
       photo: jure.jpeg
-    - name: Lei Li
-      title: Professor
-      affiliation: UCSB
-      photo: leili.jpg
