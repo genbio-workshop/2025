@@ -27,10 +27,10 @@
       title: Professor
       affiliation: NYU, Genentech
       photo: kyunghyun.jpeg
-    - name: Connor Coley
-      title: Professor
-      affiliation: MIT
-      photo: connor.jpeg
+    - name: Smita Krishnaswamy
+      title: Associate Professor
+      affiliation: Yale
+      photo: smita.jpeg
     - name: Shuiwang Ji
       title: Professor
       affiliation: Texas A&M
@@ -42,3 +42,7 @@
       title: Assistant Professor
       affiliation: Princeton
       photo: ellen.jpeg
+    - name: Connor Coley
+      title: Assistant Professor
+      affiliation: MIT
+      photo: connor.jpeg
