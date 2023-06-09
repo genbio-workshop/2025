@@ -105,28 +105,35 @@ The scope of this workshop includes, but not limited to, the following topics.
 
 </ul>
 
-<h5>Large language models for scientific discovery</h5>
+<h5>From first principles: generative modeling for biological data</h5>
 <ul>
-    <li><b>Large language model-assisted medical diagnosis:</b>
-        Incorporating (multi-modal) patient data,
-        calibration and robustness, incorporating existing medical knowledge,
-        communicating outcomes.
+    <li><b>Sequence-based methods:</b>
+        large language models for protein / genomic sequences,
+        sequence-based molecular design
     </li>
-    <li><b>Literature summarization and analysis:</b> literature
-    summarization, structured information extraction, identifying
-    knowledge gaps and uncovering novel connections, formulation of
-    scientific hypotheses</li>
+    <li><b>Graph-based methods:</b>
+        machine learning on biological graphs and networks,
+        e.g. protein-protein interaction networks,
+        genome-wide association graphs
+    </li>
+    <li><b>Geometric deep learning:</b>
+        modeling biological structures as
+        point clouds, surfaces, and other geometric objects
+    </li>
 </ul>
 
-<h5>Bridging the gap between AI and biology (Special Track)</h5>
+<h5>Open challenges in generative AI and biology (Special Track)</h5>
 <ul>
+    <li><b>Large language models for scientific discovery:</b>
+    literature summarization, structured information extraction, identifying
+    knowledge gaps and uncovering novel connections, formulation of scientific
+    hypotheses</li>
     <li><b>Finding common ground:</b>
     systematic barriers, biological experiment
     design with AI-in-the-loop</li>
     <li><b>Identifying the right problems:</b> pressing challenges in biology that
     are difficult to address via traditional means, gap between biological need
     and existing machine learning algorithms</li>
-    <li><b>Success stories:</b> how have you used generative AI for biology?</li>
 </ul>
 
 
