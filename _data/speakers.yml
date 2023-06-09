@@ -35,3 +35,10 @@
       title: Professor
       affiliation: Texas A&M
       photo: shuiwang.jpeg
+
+- num_row: 3
+  speakers:
+    - name: Ellen Zhong
+      title: Assistant Professor
+      affiliation: Princeton
+      photo: ellen.jpeg
