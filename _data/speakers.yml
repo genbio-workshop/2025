@@ -23,7 +23,11 @@
     - name: Ron Dror
       title: Associate Professor
       affiliation: Stanford
-      photo: ron.jpeg
+      photo: ron.jpg
+    - name: Daphne Koller
+      title: CEO
+      affiliation: Insitro
+      photo: koller.jpg
     - name: Kyunghyun Cho
       title: Associate Professor
       affiliation: NYU, Genentech
@@ -32,13 +36,13 @@
       title: Associate Professor
       affiliation: Yale
       photo: smita.jpeg
+
+- num_row: 3
+  speakers:
     - name: Jian Tang
       title: Associate Professor
       affiliation: Mila
       photo: jian.jpg
-
-- num_row: 3
-  speakers:
     - name: Ellen Zhong
       title: Assistant Professor
       affiliation: Princeton
