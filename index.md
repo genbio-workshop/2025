@@ -175,10 +175,12 @@ but accepted papers will be hosted on the workshop website.
 
 <h2 class="blackpar_title">Important Dates:</h2>
 <p>
+All deadlines are 11:59 pm UTC -12h ("anywhere on Earth").
+<p>
 <ul>
-    <li>Submission Deadline (all authors must have an OpenReview profile when submitting): September 25, 2023 AOE </li>
-    <li>Acceptance Notification: October 25, 2023 AOE </li>
-    <li>Camera-Ready Submission: November 15, 2023 AOE </li>
+    <li>Submission Deadline (all authors must have an OpenReview profile when submitting): September 25, 2023</li>
+    <li>Acceptance Notification: October 20, 2023</li>
+    <li>Camera-Ready Submission: November 15, 2023</li>
     <li>Workshop Date: <b>Friday December 15, 2023</b> (in-person)</li>
 </ul>
 </p>
