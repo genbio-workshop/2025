@@ -82,7 +82,7 @@ We invite researchers, scientists, students, and industry professionals working 
 The scope of this workshop includes, but not limited to, the following topics.
 </p>
 
-<h5>Designing novel and useful biomolecules</h5>
+<h5>Designing and optimizing novel and useful biomolecules</h5>
 
 <ul>
     <li>
@@ -112,12 +112,12 @@ The scope of this workshop includes, but not limited to, the following topics.
         sequence-based molecular design
     </li>
     <li><b>Graph-based methods:</b>
-        machine learning on biological graphs and networks,
-        e.g. protein-protein interaction networks,
+        generative learning on biological graphs and networks,
+        e.g., molecular graphs, protein-protein interaction networks,
         genome-wide association graphs
     </li>
     <li><b>Geometric deep learning:</b>
-        modeling biological structures as
+        generative modeling of biological structures as
         point clouds, surfaces, and other geometric objects
     </li>
 </ul>
@@ -130,21 +130,27 @@ The scope of this workshop includes, but not limited to, the following topics.
     hypotheses</li>
     <li><b>Finding common ground:</b>
     systematic barriers, biological experiment
-    design with AI-in-the-loop</li>
+    design with GenerativeAI-in-the-loop</li>
     <li><b>Identifying the right problems:</b> pressing challenges in biology that
     are difficult to address via traditional means, gap between biological need
-    and existing machine learning algorithms</li>
+    and existing generative algorithms</li>
 </ul>
 
 
 <h2 class="blackpar_title">Submission Instructions</h2>
 <p>
-You are invited to submit your papers in our CMT submission <a href="https://cmt3.research.microsoft.com/genbio2023">portal</a>.
+<span style="color:red">
+We are inviting experienced researchers to participate in the review process as program committee members.
+If you are interested, please submit your request <a href="https://docs.google.com/forms/d/e/1FAIpQLSc8WQEmqQzKaMXAQ5y-lXKObIE2wQlA41A3rR5NZYOK1CVYXA/viewform?usp=sf_link">here</a>!
+</span>
+</p>
+<p>
+You are invited to submit your papers in our OpenReview submission <a href="https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/GenBio">portal</a>.
 All submissions must be anonymous for double-blind review.
 We expect each paper to be reviewed by at least three reviewers.
 The content of the paper (excluding the references and supplementary materials) should not be longer than 4 pages,
 with strict adherence to the NeurIPS template style,
-which may be found <a href="https://neurips.cc/Conferences/2022/PaperInformation/StyleFiles">here</a>.
+which can be found <a href="https://neurips.cc/Conferences/2023/PaperInformation/StyleFiles">here</a>.
 </p>
 <p>
 Authors may submit up to 100 MB of supplementary materials separately.
@@ -158,9 +164,10 @@ Moreover, a work that is presented at the NeurIPS main conference should not app
 Please be sure to indicate conflicts of interest for all authors on your paper.
 </p>
 <p>
-To encourage higher quality submissions, our sponsors will offer <b>Best Paper</b> and <b>Best Poster</b> Awards
-to outstanding oral and poster presentations, upon nomination by the reviewers.
-We will also award one <b>outstanding paper certification</b> for our special track.
+To encourage higher quality submissions, we will offer <b>Best Paper</b> Award(s)
+based on nomination by the reviewers and extensive discussions among the chairs.
+<!-- We will also award one <b>outstanding paper certification</b> for our special track. -->
+Furthermore, outstanding submissions will also be selected for oral or spotlight presentations.
 Bear in mind that our workshop is not archival,
 but accepted papers will be hosted on the workshop website.
 </p>
@@ -169,10 +176,10 @@ but accepted papers will be hosted on the workshop website.
 <h2 class="blackpar_title">Important Dates:</h2>
 <p>
 <ul>
-    <li>Submission Deadline: September 25, 2023 AOE </li>
-    <li>Acceptance Notification: October 20, 2023 AOE </li>
-    <li>Camera-Ready Submission: November 1, 2023 AOE </li>
-    <li>Workshop Date: <b>Friday December 2, 2023</b> (in-person and virtual)</li>
+    <li>Submission Deadline (all authors must have an OpenReview profile when submitting): September 25, 2023 AOE </li>
+    <li>Acceptance Notification: October 25, 2023 AOE </li>
+    <li>Camera-Ready Submission: November 15, 2023 AOE </li>
+    <li>Workshop Date: <b>Friday December 15, 2023</b> (in-person)</li>
 </ul>
 </p>
 
@@ -208,7 +215,7 @@ but accepted papers will be hosted on the workshop website.
 </p>
 <br><br>
 
-<h2 class="blackpar_title">Platinium Sponsor</h2>
+<h2 class="blackpar_title">Sponsor</h2>
 <div class="row">
     <div class="col">
         <center>
@@ -222,7 +229,7 @@ but accepted papers will be hosted on the workshop website.
     </div>
 </div>
 
-<h2 class="blackpar_title">Gold Sponsor</h2>
+<!-- <h2 class="blackpar_title">Gold Sponsor</h2>
 <div class="row">
     <div class="col">
         <center>
@@ -234,7 +241,7 @@ but accepted papers will be hosted on the workshop website.
             <img src="" width="250px">
         </center>
     </div>
-</div>
+</div> -->
 
 </div>
 <!--ends inverted colors-->
