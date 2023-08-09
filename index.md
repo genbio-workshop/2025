@@ -245,7 +245,6 @@ All deadlines are 11:59 pm UTC -12h ("anywhere on Earth").
     </div>
 </div> -->
 
-</div>
 <!--ends inverted colors-->
 <!-- Default Statcounter code for genbio
 https://genbio-workshop.github.io/ -->
