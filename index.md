@@ -173,9 +173,9 @@ but accepted papers will be hosted on the workshop website.
 </p>
 
 
-<h2 class="blackpar_title">Important Dates:</h2>
+<h2 class="blackpar_title">(Tentative) Important Dates:</h2>
 <p>
-All deadlines are 11:59 pm UTC -12h ("anywhere on Earth").
+All deadlines are 11:59 pm UTC -12h ("Anywhere on Earth").
 <p>
 <ul>
     <li>Submission Deadline (all authors must have an OpenReview profile when submitting): September 25, 2023</li>
