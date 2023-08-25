@@ -21,6 +21,10 @@ This workshop is designed to be interactive and practical,
 equipping you with the skills to utilize generative AI tools in your own biological research.
 Engage in stimulating discussions and collaborate with experts from diverse backgrounds.
 Together, let's unlock the potential of generative AI for biology.</p>
+
+<p>
+Stay tuned by following us on <a href="twitter.com/genbio_workshop">Twitter</a>.
+</p>
 <br>
 
 <!--
