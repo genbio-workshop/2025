@@ -144,8 +144,8 @@ The scope of this workshop includes, but not limited to, the following topics.
 <h2 class="blackpar_title">Submission Instructions</h2>
 <p>
 <span style="color:red">
-We are inviting experienced researchers to participate in the review process as program committee members.
-If you are interested, please submit your request <a href="https://docs.google.com/forms/d/e/1FAIpQLSc8WQEmqQzKaMXAQ5y-lXKObIE2wQlA41A3rR5NZYOK1CVYXA/viewform?usp=sf_link">here</a>!
+<del>We are inviting experienced researchers to participate in the review process as program committee members.
+If you are interested, please submit your request <a href="https://docs.google.com/forms/d/e/1FAIpQLSc8WQEmqQzKaMXAQ5y-lXKObIE2wQlA41A3rR5NZYOK1CVYXA/viewform?usp=sf_link">here</a>!</del>
 </span>
 </p>
 <p>
@@ -179,12 +179,14 @@ but accepted papers will be hosted on the workshop website.
 
 <h2 class="blackpar_title">(Tentative) Important Dates:</h2>
 <p>
-All deadlines are 11:59 pm UTC -12h ("Anywhere on Earth").
+All deadlines are 11:59 pm UTC -12h ("Anywhere on Earth"). All authors must have an OpenReview profile when submitting.
 <p>
 <ul>
-    <li>Submission Deadline (all authors must have an OpenReview profile when submitting): <del>September 29, 2023</del> October 3, 2023</li>
-    <li>Acceptance Notification: October 20, 2023</li>
-    <li>Camera-Ready Submission: November 15, 2023</li>
+    <del><li>Submission Deadline: October 3, 2023</li></del>
+    <li>Review Bidding Period: October 8-10, 2023</li>
+    <li>Reviewer Deadline: October 24, 2023</li>
+    <li>Acceptance Notification (tentative): October 27, 2023</li>
+    <!-- <li>Camera-Ready Submission: November 15, 2023</li> -->
     <li>Workshop Date: <b>Saturday, December 16, 2023</b> (in-person)</li>
 </ul>
 </p>
