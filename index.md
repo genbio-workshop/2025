@@ -171,7 +171,7 @@ Please be sure to indicate conflicts of interest for all authors on your paper.
 To encourage higher quality submissions, we will offer <b>Best Paper</b> Award(s)
 based on nomination by the reviewers and extensive discussions among the chairs.
 <!-- We will also award one <b>outstanding paper certification</b> for our special track. -->
-Furthermore, outstanding submissions will also be selected for oral or spotlight presentations.
+Furthermore, outstanding submissions will also be selected for oral presentations.
 Bear in mind that our workshop is not archival,
 but accepted papers will be hosted on the workshop website.
 </p>
@@ -183,8 +183,8 @@ All deadlines are 11:59 pm UTC -12h ("Anywhere on Earth"). All authors must have
 <p>
 <ul>
     <del><li>Submission Deadline: October 3, 2023</li></del>
-    <li>Review Bidding Period: October 8-10, 2023</li>
-    <li>Reviewer Deadline: October 24, 2023</li>
+    <del><li>Review Bidding Period: October 8-10, 2023</li></del>
+    <del><li>Reviewer Deadline: October 24, 2023</li></del>
     <li>Acceptance Notification (tentative): October 27, 2023</li>
     <!-- <li>Camera-Ready Submission: November 15, 2023</li> -->
     <li>Workshop Date: <b>Saturday, December 16, 2023</b> (in-person)</li>
@@ -223,6 +223,7 @@ All deadlines are 11:59 pm UTC -12h ("Anywhere on Earth"). All authors must have
 </p>
 <br><br>
 
+<!--
 <h2 class="blackpar_title">Sponsor</h2>
 <div class="row">
     <div class="col">
@@ -235,7 +236,7 @@ All deadlines are 11:59 pm UTC -12h ("Anywhere on Earth"). All authors must have
             <img src="" width="250px">
         </center>
     </div>
-</div>
+</div>-->
 
 <!-- <h2 class="blackpar_title">Gold Sponsor</h2>
 <div class="row">
