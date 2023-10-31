@@ -1,16 +1,14 @@
 - title: Overview
   url: /index.html#overview
-- title: Call for papers
-  url: /index.html#call_for_papers
+- title: Deadlines
+  url: /index.html#deadlines
+- title: Schedule
+  url: /index.html#schedule
 - title: Organizers
   url: /index.html#organizers
 - title: Speakers
   url: /index.html#speakers
-- title: Schedule
-  url: /index.html#schedule
-- title: Technical committee
-  url: /index.html#technical_committee
 - title: Accepted papers
-  url: /accepted_papers.html
+  url: https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/GenBio
 - title: Poster session
   url: https://genbio-workshop.github.io

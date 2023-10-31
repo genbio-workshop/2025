@@ -25,6 +25,11 @@ Together, let's unlock the potential of generative AI for biology.</p>
 <p>
 Stay tuned by following us on <a href="https://twitter.com/genbio_workshop">Twitter</a>.
 </p>
+
+<p>
+<b>Update:</b> You may view accepted papers <a
+    href="https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/GenBio">here!</a>
+</p>
 <br>
 
 <!--
@@ -77,7 +82,28 @@ critical insights into the future of generative-AI-driven biology.
 We look forward to your participation in this exciting discourse on the future of biology and AI.
 </p>
 
-<br>
+<h2 class="blackpar_title" id="deadlines">Important Dates</h2>
+<p>
+All deadlines are 11:59 pm UTC -12h ("Anywhere on Earth"). All authors must have an OpenReview profile when submitting.
+<p>
+<ul>
+    <del><li>Submission Deadline: October 3, 2023</li></del>
+    <del><li>Review Bidding Period: October 8-10, 2023</li></del>
+    <del><li>Reviewer Deadline: October 24, 2023</li></del>
+    <li><del>Acceptance Notification (tentative): October 27, 2023</del>
+    Decisions sent!</li>
+    <li>Camera-Ready Submission: November 22, 2023</li>
+    <li>Workshop Date: <b>Saturday, December 16, 2023</b> (in-person)</li>
+</ul>
+</p>
+
+<!-- Schedule -->
+<h2 class="blackpar_title" id="schedule">Schedule (UTC-6)</h2>
+<p>
+{% include schedule.html %}
+</p>
+
+
 <!-- Call for Papers -->
 <h2 class="blackpar_title" id="call_for_papers">Call for Papers</h2>
 
@@ -141,7 +167,7 @@ The scope of this workshop includes, but not limited to, the following topics.
 </ul>
 
 
-<h2 class="blackpar_title">Submission Instructions</h2>
+<!--<h2 class="blackpar_title">Submission Instructions</h2>
 <p>
 <span style="color:red">
 <del>We are inviting experienced researchers to participate in the review process as program committee members.
@@ -170,26 +196,11 @@ Please be sure to indicate conflicts of interest for all authors on your paper.
 <p>
 To encourage higher quality submissions, we will offer <b>Best Paper</b> Award(s)
 based on nomination by the reviewers and extensive discussions among the chairs.
-<!-- We will also award one <b>outstanding paper certification</b> for our special track. -->
 Furthermore, outstanding submissions will also be selected for oral presentations.
 Bear in mind that our workshop is not archival,
 but accepted papers will be hosted on the workshop website.
-</p>
+</p>-->
 
-
-<h2 class="blackpar_title">(Tentative) Important Dates:</h2>
-<p>
-All deadlines are 11:59 pm UTC -12h ("Anywhere on Earth"). All authors must have an OpenReview profile when submitting.
-<p>
-<ul>
-    <del><li>Submission Deadline: October 3, 2023</li></del>
-    <del><li>Review Bidding Period: October 8-10, 2023</li></del>
-    <del><li>Reviewer Deadline: October 24, 2023</li></del>
-    <li>Acceptance Notification (tentative): October 27, 2023</li>
-    <!-- <li>Camera-Ready Submission: November 15, 2023</li> -->
-    <li>Workshop Date: <b>Saturday, December 16, 2023</b> (in-person)</li>
-</ul>
-</p>
 
 <h2 class="blackpar_title" id="speakers">Confirmed Speakers & Panelists</h2>
 <p>
@@ -201,12 +212,6 @@ All deadlines are 11:59 pm UTC -12h ("Anywhere on Earth"). All authors must have
 <p>
 {% include panelists.html %}
 </p>-->
-
-<!-- Schedule -->
-<h2 class="blackpar_title" id="schedule">Schedule (New Orleans Time Zone)</h2>
-<p>
-{% include schedule.html %}
-</p>
 
 <!-- Organizers -->
 <h2 class="blackpar_title" id="organizers">Organizers</h2>

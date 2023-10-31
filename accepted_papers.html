@@ -1,4 +1,4 @@
----
+--
 #
 # By default, content added below the "---" mark will appear in the home page
 # between the top bar and the list of recent posts.
@@ -23,20 +23,20 @@ cursor: zoom-in;
 </style>
 {% for row in rows %}
 <div class="modal fade" id="paper_{{row.id}}" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-	<div class="modal-dialog">
-		<div class="modal-content">
-			<div class="modal-body">
-				<b>Title:</b> {{ row.title }}
-				<br>
-				<b>Authors:</b><p class="par_panel_perso">{{ row.authors }}</p>
-				<b>Abstract:</b><p class="par_panel_perso">{{ row.abstract }}</p>
-			</div>
-			<div class="modal-footer">
-				<a href="/papers/paper_{{row.id}}.pdf" download class="btn btn-primary active" aria-current="page">Download PDF</a>
-				<button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-			</div>
-		</div>
-	</div>
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-body">
+                <b>Title:</b> {{ row.title }}
+                <br>
+                <b>Authors:</b><p class="par_panel_perso">{{ row.authors }}</p>
+                <b>Abstract:</b><p class="par_panel_perso">{{ row.abstract }}</p>
+            </div>
+            <div class="modal-footer">
+                <a href="/papers/paper_{{row.id}}.pdf" download class="btn btn-primary active" aria-current="page">Download PDF</a>
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
 </div>
 {% endfor %}
 

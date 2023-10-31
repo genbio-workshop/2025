@@ -1,7 +1,8 @@
 {% assign schedule = site.data.schedule %}
 {% assign size = schedule.size %}
 {% if size == False %}
-TBD
+Day-of schedule is TBD.
+The workshop will be held on December 16.
 {% else %}
 	{% for event in schedule %}
 		{% if event.Abstract %}
@@ -38,7 +39,7 @@ TBD
 			{% for event in schedule %}
 				<tr>
 					<td>{{ event.Time }}</td>
-					
+
 					{% if event.Whole_line == true%}
 						<td colspan='3'>{{ event.Title }}</td>
 					{% else %}
