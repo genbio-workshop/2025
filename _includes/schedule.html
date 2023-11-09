@@ -1,8 +1,9 @@
 {% assign schedule = site.data.schedule %}
 {% assign size = schedule.size %}
 {% if size == False %}
+
 Day-of schedule is TBD.
-The workshop will be held on December 16.
+
 {% else %}
 	{% for event in schedule %}
 		{% if event.Abstract %}
