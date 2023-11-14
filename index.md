@@ -259,10 +259,11 @@ but accepted papers will be hosted on the workshop website.
 <br><br>
 
 <!-- Technical Committee -->
-<h2 class="blackpar_title" id="technical_committee">Technical Committee</h2>
+<!--<h2 class="blackpar_title" id="technical_committee">Technical Committee</h2>
 <p>
 {% include technical_committee.html %}
 </p>
+-->
 <br><br>
 
 <!--
