@@ -28,7 +28,9 @@ Stay tuned by following us on <a href="https://twitter.com/genbio_workshop">Twit
 
 <p>
 <b>Update:</b> You may view accepted papers <a
-    href="https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/GenBio">here!</a>. Please note that reviews and rejected papers are only visible to authors.
+    href="https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/GenBio">here!</a>.
+Camera-ready manuscripts are due Wednesday, November 22.
+A template is provided <a href="https://www.overleaf.com/latex/templates/neurips-2023-genbio-workshop/tzsxwjkrxnrk">here</a>.
 </p>
 <br>
 
@@ -131,7 +133,8 @@ Please update your submissions to 1) include author names and affiliations, and 
 
 <p>
 Papers should indicate that they are NeurIPS Generative AI and Biology
-Workshop 2023 papers.
+Workshop 2023 papers by using the stylesheet provided
+<a href="https://www.overleaf.com/latex/templates/neurips-2023-genbio-workshop/tzsxwjkrxnrk">here</a>.
 </p>
 
 <!-- Schedule -->
