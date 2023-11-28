@@ -26,12 +26,6 @@ Together, let's unlock the potential of generative AI for biology.</p>
 Stay tuned by following us on <a href="https://twitter.com/genbio_workshop">Twitter</a>.
 </p>
 
-<p>
-<b>Update:</b> You may view accepted papers <a
-    href="https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/GenBio">here!</a>.
-Camera-ready manuscripts are due Wednesday, November 22.
-A template is provided <a href="https://www.overleaf.com/latex/templates/neurips-2023-genbio-workshop/tzsxwjkrxnrk">here</a>.
-</p>
 <br>
 
 <!--
@@ -94,7 +88,7 @@ All deadlines are 11:59 pm UTC -12h ("Anywhere on Earth"). All authors must have
     <del><li>Reviewer Deadline: October 24, 2023</li></del>
     <li><del>Acceptance Notification (tentative): October 27, 2023</del>
     Decisions sent!</li>
-    <li>Camera-Ready Submission: November 22, 2023</li>
+    <li><del>Camera-Ready Submission: November 22, 2023</del></li>
     <li>Workshop Date: <b>Saturday, December 16, 2023</b> (in-person)</li>
 </ul>
 </p>
@@ -104,7 +98,11 @@ Please refer to the Neurips website regarding
 <a href="https://neurips.cc/Register/view-registration">registration</a> and
 <a href="https://neurips.cc/Conferences/2023/Hotels">hotels</a>. We would like to reiterate
 that poster presentations will be in-person only.
+</p>
 
+<p>
+The talks will be livestreamed for virtual attendees.
+Please register via NeurIPS for a virtual pass for access.
 </p>
 
 
