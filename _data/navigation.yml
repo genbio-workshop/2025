@@ -1,14 +1,10 @@
 - title: Overview
   url: /index.html#overview
-- title: Deadlines
-  url: /index.html#deadlines
 - title: Schedule
-  url: /index.html#schedule
-- title: Organizers
-  url: /index.html#organizers
+  url: https://neurips.cc/virtual/2023/workshop/66505
 - title: Speakers
   url: /index.html#speakers
+- title: Organizers
+  url: /index.html#organizers
 - title: Accepted papers
   url: https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/GenBio
-- title: Poster session
-  url: https://genbio-workshop.github.io

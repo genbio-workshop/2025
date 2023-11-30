@@ -78,8 +78,8 @@ critical insights into the future of generative-AI-driven biology.
 We look forward to your participation in this exciting discourse on the future of biology and AI.
 </p>
 
-<h2 class="blackpar_title" id="deadlines">Important Dates</h2>
-<p>
+<h2 class="blackpar_title" id="deadlines">Important information</h2>
+<!--<p>
 All deadlines are 11:59 pm UTC -12h ("Anywhere on Earth"). All authors must have an OpenReview profile when submitting.
 <p>
 <ul>
@@ -91,6 +91,12 @@ All deadlines are 11:59 pm UTC -12h ("Anywhere on Earth"). All authors must have
     <li><del>Camera-Ready Submission: November 22, 2023</del></li>
     <li>Workshop Date: <b>Saturday, December 16, 2023</b> (in-person)</li>
 </ul>
+</p>-->
+
+<p>
+The workshop will be held on December 16 in
+room MR265-268 at the
+Ernest N. Morial Convention Center (900 Convention Center Blvd, New Orleans, LA 70130).
 </p>
 
 <p>
@@ -108,12 +114,6 @@ Please register via NeurIPS for a virtual pass for access.
 
 <!-- Poster instructions -->
 <h2 class="blackpar_title" id="instructions">Author Instructions</h2>
-
-<p>
-The workshop will be held on December 16 in
-room MR265-268 at the
-Ernest N. Morial Convention Center (900 Convention Center Blvd, New Orleans, LA 70130).
-</p>
 
 <p>
 Posters should be 24W by 36H (vertical) and printed on lightweight paper,
@@ -255,6 +255,11 @@ but accepted papers will be hosted on the workshop website.
 <h2 class="blackpar_title" id="organizers">Organizers</h2>
 <p>
 {% include organizers.html %}
+</p>
+
+<h2 class="blackpar_title" id="sponsors">Sponsors</h2>
+<p>
+{% include sponsors.html %}
 </p>
 
 <br><br>
