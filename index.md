@@ -257,6 +257,12 @@ but accepted papers will be hosted on the workshop website.
 {% include organizers.html %}
 </p>
 
+<!-- Moderators -->
+<h2 class="blackpar_title" id="moderators">Moderators</h2>
+<p>
+{% include moderators.html %}
+</p>
+
 <h2 class="blackpar_title" id="sponsors">Sponsors</h2>
 <p>
 {% include sponsors.html %}

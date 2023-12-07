@@ -1,0 +1,10 @@
+- num_row: 1
+  moderators:
+    - name: Eric Nguyen
+      affiliation: Stanford
+      photo: eric.png
+      url: http://erictnguyen.com/
+    - name: Rachel Wu
+      affiliation: MIT
+      photo: rachel.jpg
+      url: https://people.csail.mit.edu/rmwu/
