@@ -8,7 +8,7 @@
 layout: home
 ---
 <div style="display: flex; align-items: center; justify-content: center; background: url('images/header.jpg') no-repeat; background-size: cover; user-select: none; height: 600px; padding: 0;">
-    <h1 class="blackpar_title" style="text-align: center; font-weight: bold; line-height: 1.2; text-shadow: 0px 0px 5px black;">The 1<sup>st</sup> workshop on Generative AI and Biology</h1>
+    <h1 class="blackpar_title" style="text-align: center; font-weight: bold; line-height: 1.2; text-shadow: 0px 0px 5px black;">The 2<sup>nd</sup> workshop on Generative AI and Biology</h1>
 </div>
 
 
@@ -27,24 +27,6 @@ Stay tuned by following us on <a href="https://twitter.com/genbio_workshop">Twit
 </p>
 
 <br>
-
-<!--
-<div class="alert alert-danger" role="alert">
-  <h4>Mentoring sessions announcement</h4>
-  <p>
-  The deadline for submitting papers to the Generative AI in Biology (GenBio) workshop is 29th of September. For that we will be scheduling two mentioring online sessions to answer your questions. Please join us:
-  <br>
-  <ul>
-    <li>Tuesday the 6th of September 2023 from 10PM to 11PM (UTC-04:00)</li>
-    <li>Wednesday the 7th of September 2023 from 9AM to 10AM (UTC-04:00)</li>
-    <li>Tuesday the 13th of September 2023 from 10PM to 11PM (UTC-04:00): <a href="https://welink.zhumu.com/j/134854021">link</a></li>
-    <li>Wednesday the 14th of September 2023 from 9AM to 10AM (UTC-04:00): <a href="https://welink.zhumu.com/j/130263276">link</a></li>
-  </ul>
-  </p>
-</div>
-
-<br>
--->
 
 
 <!--starts inverted colors-->
@@ -79,7 +61,7 @@ We look forward to your participation in this exciting discourse on the future o
 </p>
 
 <h2 class="blackpar_title" id="deadlines">Important information</h2>
-<!--<p>
+<p>
 All deadlines are 11:59 pm UTC -12h ("Anywhere on Earth"). All authors must have an OpenReview profile when submitting.
 <p>
 <ul>
@@ -91,9 +73,9 @@ All deadlines are 11:59 pm UTC -12h ("Anywhere on Earth"). All authors must have
     <li><del>Camera-Ready Submission: November 22, 2023</del></li>
     <li>Workshop Date: <b>Saturday, December 16, 2023</b> (in-person)</li>
 </ul>
-</p>-->
+</p>
 
-<p>
+<!--<p>
 The workshop will be held on December 16 in
 room MR265-268 at the
 Ernest N. Morial Convention Center (900 Convention Center Blvd, New Orleans, LA 70130).
@@ -109,7 +91,7 @@ that poster presentations will be in-person only.
 <p>
 The talks will be livestreamed for virtual attendees.
 Please register via NeurIPS for a virtual pass for access.
-</p>
+</p>-->
 
 
 <!-- Poster instructions -->
@@ -143,7 +125,7 @@ Workshop 2023 papers by using the stylesheet provided
 
 
 <!-- Call for Papers -->
-<!--<h2 class="blackpar_title" id="call_for_papers">Call for Papers</h2>
+<h2 class="blackpar_title" id="call_for_papers">Call for Papers</h2>
 
 <p>
 We invite researchers, scientists, students, and industry professionals working in the domains of artificial intelligence, machine learning, computational biology, bioinformatics, and related areas to submit their original research or review papers.
@@ -202,14 +184,14 @@ The scope of this workshop includes, but not limited to, the following topics.
     <li><b>Identifying the right problems:</b> pressing challenges in biology that
     are difficult to address via traditional means, gap between biological need
     and existing generative algorithms</li>
-</ul>-->
+</ul>
 
 
-<!--<h2 class="blackpar_title">Submission Instructions</h2>
+<h2 class="blackpar_title">Submission Instructions</h2>
 <p>
 <span style="color:red">
-<del>We are inviting experienced researchers to participate in the review process as program committee members.
-If you are interested, please submit your request <a href="https://docs.google.com/forms/d/e/1FAIpQLSc8WQEmqQzKaMXAQ5y-lXKObIE2wQlA41A3rR5NZYOK1CVYXA/viewform?usp=sf_link">here</a>!</del>
+We are inviting experienced researchers to participate in the review process as program committee members.
+If you are interested, please submit your request <a href="https://docs.google.com/forms/d/e/1FAIpQLSc8WQEmqQzKaMXAQ5y-lXKObIE2wQlA41A3rR5NZYOK1CVYXA/viewform?usp=sf_link">here</a>!
 </span>
 </p>
 <p>
@@ -232,12 +214,10 @@ Moreover, a work that is presented at the NeurIPS main conference should not app
 Please be sure to indicate conflicts of interest for all authors on your paper.
 </p>
 <p>
-To encourage higher quality submissions, we will offer <b>Best Paper</b> Award(s)
-based on nomination by the reviewers and extensive discussions among the chairs.
-Furthermore, outstanding submissions will also be selected for oral presentations.
+To encourage higher quality submissions, outstanding submissions will also be selected for oral presentations.
 Bear in mind that our workshop is not archival,
 but accepted papers will be hosted on the workshop website.
-</p>-->
+</p>
 
 
 <h2 class="blackpar_title" id="speakers">Confirmed Speakers & Panelists</h2>
