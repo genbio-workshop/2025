@@ -186,7 +186,7 @@ The scope of this workshop includes, but not limited to, the following topics.
     and existing generative algorithms</li>
 </ul>
 
-
+<!-- 
 <h2 class="blackpar_title">Submission Instructions</h2>
 <p>
 <span style="color:red">
@@ -217,7 +217,7 @@ Please be sure to indicate conflicts of interest for all authors on your paper.
 To encourage higher quality submissions, outstanding submissions will also be selected for oral presentations.
 Bear in mind that our workshop is not archival,
 but accepted papers will be hosted on the workshop website.
-</p>
+</p> -->
 
 <!-- # Confirmed Speakers & Panelists -->
 <h2 class="blackpar_title" id="speakers">Confirmed (Tentative) Speaker</h2> 
