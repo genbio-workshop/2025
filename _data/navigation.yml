@@ -1,10 +1,10 @@
 - title: Overview
   url: /index.html#overview
-- title: Schedule
-  url: https://neurips.cc/virtual/2023/workshop/66505
+# - title: Schedule
+#   url: https://neurips.cc/virtual/2023/workshop/66505
 - title: Speakers
   url: /index.html#speakers
 - title: Organizers
   url: /index.html#organizers
-- title: Accepted papers
-  url: https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/GenBio
+# - title: Accepted papers
+  # url: https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/GenBio

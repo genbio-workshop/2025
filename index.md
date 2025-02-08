@@ -60,8 +60,8 @@ critical insights into the future of generative-AI-driven biology.
 We look forward to your participation in this exciting discourse on the future of biology and AI.
 </p>
 
-<h2 class="blackpar_title" id="deadlines">Important information</h2>
-<p>
+<!-- <h2 class="blackpar_title" id="deadlines">Important information</h2> -->
+<!--<p>
 All deadlines are 11:59 pm UTC -12h ("Anywhere on Earth"). All authors must have an OpenReview profile when submitting.
 <p>
 <ul>
@@ -75,13 +75,13 @@ All deadlines are 11:59 pm UTC -12h ("Anywhere on Earth"). All authors must have
 </ul>
 </p>
 
-<!--<p>
+<!-- <p>
 The workshop will be held on December 16 in
 room MR265-268 at the
 Ernest N. Morial Convention Center (900 Convention Center Blvd, New Orleans, LA 70130).
-</p>
+</p> -->
 
-<p>
+<!-- <p>
 Please refer to the Neurips website regarding
 <a href="https://neurips.cc/Register/view-registration">registration</a> and
 <a href="https://neurips.cc/Conferences/2023/Hotels">hotels</a>. We would like to reiterate
@@ -91,37 +91,37 @@ that poster presentations will be in-person only.
 <p>
 The talks will be livestreamed for virtual attendees.
 Please register via NeurIPS for a virtual pass for access.
-</p>-->
+</p> -->
 
 
 <!-- Poster instructions -->
-<h2 class="blackpar_title" id="instructions">Author Instructions</h2>
+<!-- <h2 class="blackpar_title" id="instructions">Author Instructions</h2>
 
 <p>
 Posters should be 24W by 36H (vertical) and printed on lightweight paper,
 as they will be affixed to the wall by tape.
 Instructions regarding poster printing can be found
 <a href="https://neurips.cc/FAQ/PosterInformation">here</a>.
-</p>
+</p> -->
 
-<p>
+<!-- <p>
 Camera ready manuscripts are due on
 <a href="https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/GenBio">OpenReview</a>
 by November 22, 2023.
 Please update your submissions to 1) include author names and affiliations, and 2) incorporate any desired changes based on your reviews. Your camera-ready should follow the same Neurips style guide, and it may contain up to 5 pages of content (excluding references and appendices).
-</p>
+</p> -->
 
-<p>
+<!-- <p>
 Papers should indicate that they are NeurIPS Generative AI and Biology
 Workshop 2023 papers by using the stylesheet provided
 <a href="https://www.overleaf.com/latex/templates/neurips-2023-genbio-workshop/tzsxwjkrxnrk">here</a>.
-</p>
+</p> -->
 
 <!-- Schedule -->
-<h2 class="blackpar_title" id="schedule">Schedule (UTC-6)</h2>
+<!-- <h2 class="blackpar_title" id="schedule">Schedule (UTC-6)</h2>
 <p>
 {% include schedule.html %}
-</p>
+</p> -->
 
 
 <!-- Call for Papers -->
@@ -219,8 +219,8 @@ Bear in mind that our workshop is not archival,
 but accepted papers will be hosted on the workshop website.
 </p>
 
-
-<h2 class="blackpar_title" id="speakers">Confirmed Speakers & Panelists</h2>
+<!-- # Confirmed Speakers & Panelists -->
+<h2 class="blackpar_title" id="speakers">Confirmed (Tentative) Speaker</h2> 
 <p>
 {% include speakers.html %}
 </p>
@@ -238,10 +238,10 @@ but accepted papers will be hosted on the workshop website.
 </p>
 
 <!-- Moderators -->
-<h2 class="blackpar_title" id="moderators">Moderators</h2>
+<!-- <h2 class="blackpar_title" id="moderators">Moderators</h2>
 <p>
 {% include moderators.html %}
-</p>
+</p> -->
 
 <h2 class="blackpar_title" id="sponsors">Sponsors</h2>
 <p>

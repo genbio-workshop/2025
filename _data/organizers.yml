@@ -4,44 +4,53 @@
       affiliation: Stanford
       photo: minkai.jpg
       url: https://minkaixu.com/
+    - name: Zhenqiao Song
+      affiliation: CMU
+      photo: zhenqiao_song.jpeg
+      url: https://jocelynsong.github.io/
+    - name: Tingyang Yu
+      affiliation: EPFL
+      photo: tingyang.jpg
+      url: https://yistyu.github.io/
     - name: Wenxian Shi
       affiliation: MIT
       photo: wenxian.jpg
-      url: https://wenxianxian.github.io/
-    - name: Rachel Wu
-      affiliation: MIT
-      photo: rachel.jpg
-      url: https://people.csail.mit.edu/rmwu/
+      url: https://scholar.google.com/citations?user=Q4R4KhgAAAAJ&hl=en&oi=ao
 - num_row: 2
   organizers:
-    - name: Zhenqiao Song
-      affiliation: UCSB
-      photo: zhenqiao_song.jpeg
-      url: https://jocelynsong.github.io/
-    - name: Regina Barzilay
-      title: Professor
-      affiliation: MIT
-      photo: regina.jpg
-      url: https://www.regina.csail.mit.edu/
-    - name: Stefano Ermon
-      title: Professor
-      affiliation: Stanford
-      photo: ermon.jpeg
-      url: https://cs.stanford.edu/~ermon/
+    - name: Seul Lee
+      affiliation: KAIST
+      photo: seul.jpg
+      url: https://seullee05.github.io/
+    - name: Maria Brbic
+      title: Assistant Professor
+      affiliation: EPFL
+      photo: maria_brbic.jpeg
+      url: https://people.epfl.ch/maria.brbic
+    - name: Aditi S. Krishnapriyan
+      title: Assistant Professor
+      affiliation: UC Berkeley
+      photo: aditi.png
+      url: https://a1k12.github.io/
 - num_row: 2
   organizers:
-    - name: Jure Leskovec
-      title: Professor
-      affiliation: Stanford
-      photo: jure.jpeg
-      url: https://cs.stanford.edu/people/jure/
-    - name: Fan Yang
-      title: Dr.
-      affiliation: Tencent
-      photo: fan_yang.jpeg
-      url: https://scholar.google.com/citations?user=_CqRPXIAAAAJ&hl=zh-CN
     - name: Lei Li
       title: Professor
       affiliation: CMU
       photo: leili.jpg
       url: https://lileicc.github.io/
+    - name: Stefano Ermon
+      title: Professor
+      affiliation: Stanford
+      photo: ermon.jpeg
+      url: https://cs.stanford.edu/~ermon/
+    # - name: Jure Leskovec
+    #   title: Professor
+    #   affiliation: Stanford
+    #   photo: jure.jpeg
+    #   url: https://cs.stanford.edu/people/jure/
+    - name: Regina Barzilay
+      title: Professor
+      affiliation: MIT
+      photo: regina.jpg
+      url: https://www.regina.csail.mit.edu/

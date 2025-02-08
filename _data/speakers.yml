@@ -1,58 +1,58 @@
 - num_row: 1
   speakers:
-    - name: Anima Anandkumar
+    - name: David Baker
       title: Professor
-      affiliation: Caltech, NVIDIA
-      photo: anima.jpeg
-    - name: Max Welling
+      affiliation: University of Washington
+      photo: david.jpg
+    - name: Jennifer Listgarten
       title: Professor
-      affiliation: U of Amsterdam, MSR
-      photo: max.jpeg
-    - name: Debora Marks
+      affiliation: UC Berkeley
+      photo: jennifer.jpg
+    - name: James J. Collins
       title: Professor
-      affiliation: HMS, Broad
-      photo: debora.jpeg
-    - name: Evan Feinberg
-      title: Dr.
-      affiliation: CEO, Genesis Therapeutics
-      photo: evan.jpeg
+      affiliation: MIT
+      photo: james.jpg
+    - name: Mengdi Wang
+      title: Associate Professor
+      affiliation: Princeton
+      photo: mengdi.jpeg
+    # - name: Evan Feinberg
+    #   title: Dr.
+    #   affiliation: CEO, Genesis Therapeutics
+    #   photo: evan.jpeg
 
 
 - num_row: 2
   speakers:
-    - name: Ron Dror
-      title: Associate Professor
-      affiliation: Stanford
-      photo: ron.jpg
-    - name: Kyunghyun Cho
-      title: Associate Professor
-      affiliation: NYU, Genentech
-      photo: kyunghyun.jpeg
-    - name: Smita Krishnaswamy
-      title: Associate Professor
-      affiliation: Yale
-      photo: smita.jpeg
-    - name: Le Song
-      title: Professor
-      affiliation: Mohamed bin Zayed University of AI
-      photo: le.jpeg
-
-- num_row: 3
-  speakers:
-    - name: Jian Tang
-      title: Associate Professor
-      affiliation: Mila
-      photo: jian.jpg
-    - name: Ellen Zhong
+    - name: Marinka Zitnik
       title: Assistant Professor
-      affiliation: Princeton
-      photo: ellen.jpeg
-    - name: Shuiwang Ji
-      title: Professor
-      affiliation: Texas A&M
-      photo: shuiwang.jpeg
-    - name: Patrick Conrad
+      affiliation: Harvard
+      photo: marinka.jpg
+    - name: Ge Liu
+      title: Assistant Professor
+      affiliation: UIUC
+      photo: liuge.png
+    - name: Frank Noé
       title: Dr.
-      affiliation: Insitro
-      photo: patrick.jpeg
+      affiliation: Microsoft Research
+      photo: frank.jpg
+
+# - num_row: 3
+#   speakers:
+#     - name: Jian Tang
+#       title: Associate Professor
+#       affiliation: Mila
+#       photo: jian.jpg
+#     - name: Ellen Zhong
+#       title: Assistant Professor
+#       affiliation: Princeton
+#       photo: ellen.jpeg
+#     - name: Shuiwang Ji
+#       title: Professor
+#       affiliation: Texas A&M
+#       photo: shuiwang.jpeg
+#     - name: Patrick Conrad
+#       title: Dr.
+#       affiliation: Insitro
+#       photo: patrick.jpeg
 
