@@ -1,19 +1,19 @@
 - num_row: 1
   speakers:
     - name: David Baker
-      title: Professor
+      title: Prof.
       affiliation: University of Washington
       photo: david.jpg
     - name: Jennifer Listgarten
-      title: Professor
+      title: Prof.
       affiliation: UC Berkeley
       photo: jennifer.jpg
     - name: James J. Collins
-      title: Professor
+      title: Prof.
       affiliation: MIT
       photo: james.jpg
     - name: Mengdi Wang
-      title: Associate Professor
+      title: Prof.
       affiliation: Princeton
       photo: mengdi.jpeg
     # - name: Evan Feinberg
@@ -25,11 +25,11 @@
 - num_row: 2
   speakers:
     - name: Marinka Zitnik
-      title: Assistant Professor
+      title: Prof.
       affiliation: Harvard
       photo: marinka.jpg
     - name: Ge Liu
-      title: Assistant Professor
+      title: Prof.
       affiliation: UIUC
       photo: liuge.png
     - name: Frank Noé
