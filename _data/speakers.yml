@@ -32,14 +32,14 @@
       title: Prof.
       affiliation: CMU & MBZUAI
       photo: eric_xing.jpg
-    - name: Ge Liu
-      title: Prof.
-      affiliation: UIUC
-      photo: liuge.png
-    - name: Frank Noé
-      title: Dr.
-      affiliation: Microsoft Research
-      photo: frank.jpg
+    # - name: Ge Liu
+    #   title: Prof.
+    #   affiliation: UIUC
+    #   photo: liuge.png
+    # - name: Frank Noé
+    #   title: Dr.
+    #   affiliation: Microsoft Research
+    #   photo: frank.jpg
 
 # - num_row: 3
 #   speakers:
