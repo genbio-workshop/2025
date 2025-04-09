@@ -215,7 +215,7 @@ The scope of this workshop includes, but not limited to, the following topics.
 </ul> -->
 
 
-<h2 class="blackpar_title">Submission Instructions</h2> -->
+<h2 class="blackpar_title">Submission Instructions</h2>
 <!-- <p>
 <span style="color:red">
 We are inviting experienced researchers to participate in the review process as program committee members.
@@ -224,8 +224,12 @@ If you are interested, please submit your request <a href="https://docs.google.c
 </p> -->
 <p>
 You are invited to submit your papers in our OpenReview submission <a href="https://openreview.net/group?id=ICML.cc/2025/Workshop/GenBio">portal</a>.
+</p>
+<p>
 Submissions can be either short papers (up to 4 pages) or long papers (up to 8 pages), exclusive of unlimited references and appendices following our <a href="https://www.overleaf.com/read/trqkdswkvppd#8cdf17">LaTeX template</a> (edited from ICML 2025 main conference paper template). 
 The maximum size of submissions is 50 MB. While you may include supplementary material or appendices, note that reviewers are not required to evaluate these additional contents.
+</p>
+<p>
 All submissions must be anonymous for double-blind review.
 <!-- We expect each paper to be reviewed by at least three reviewers. -->
 <!-- with strict adherence to the NeurIPS template style, -->
