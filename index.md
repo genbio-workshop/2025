@@ -60,18 +60,20 @@ critical insights into the future of generative-AI-driven biology.
 We look forward to your participation in this exciting discourse on the future of biology and AI.
 </p>
 
-<!-- <h2 class="blackpar_title" id="deadlines">Important information</h2> -->
-<!--<p>
+<h2 class="blackpar_title" id="deadlines">Important information</h2>
+<p>
 All deadlines are 11:59 pm UTC -12h ("Anywhere on Earth"). All authors must have an OpenReview profile when submitting.
 <p>
 <ul>
-    <del><li>Submission Deadline: October 3, 2023</li></del>
-    <del><li>Review Bidding Period: October 8-10, 2023</li></del>
-    <del><li>Reviewer Deadline: October 24, 2023</li></del>
-    <li><del>Acceptance Notification (tentative): October 27, 2023</del>
-    Decisions sent!</li>
-    <li><del>Camera-Ready Submission: November 22, 2023</del></li>
-    <li>Workshop Date: <b>Saturday, December 16, 2023</b> (in-person)</li>
+    <li>Submission Deadline: 20th May, 2025</li>
+    <!-- <li>Review Bidding Period: 20th-22nd May, 2025</li> -->
+    <li>Reviewer deadline: 6th June, 2025</li>
+    <li>AC decision deadline: 8th June, 2025</li>
+    <li>Author Notification: 9th June, 2025</li>
+    <li>Camera Ready Deadline: 6th July, 2025</li>
+    <li>Workshop Date: 18 or 19th July 2025</li>
+    <!-- <li><del>Camera-Ready Submission: November 22, 2023</del></li> -->
+    <!-- <li>Workshop Date: <b>Saturday, December 16, 2023</b> (in-person)</li> -->
 </ul>
 </p>
 
@@ -132,7 +134,33 @@ We invite researchers, scientists, students, and industry professionals working 
 The scope of this workshop includes, but not limited to, the following topics.
 </p>
 
-<h5>Designing and optimizing novel and useful biomolecules</h5>
+
+<ul>
+    <li>
+        Generative ML methods for biomolecular design with in silico results, including small molecule design, protein design, and design of other macromolecules such RNAs.
+    </li>
+    <li>
+        Generative AI for modeling biological systems (e.g., genes, cells, and tissues)
+    </li>
+    <li>
+        Novel generative AI algorithms and methods for representing and processing biological data and new modalities, including sequence, graph, and geometric modellings. 
+    </li>
+    <li>
+        Foundation models and tools for biological research based on LLMs and AI Agents.
+    </li>
+    <li>
+        Integration of AI and experimental biology: AI-driven predictions and wet-lab in a close loop. 
+    </li>
+    <li>
+        Interpretability of foundation models in biology (e.g., knowledge graphs, retrieval augmented generation). 
+    </li>
+    <li>
+        Datasets and benchmarks for advancing AI-based biology research.
+    </li>
+</ul>
+
+
+<!-- <h5>Designing and optimizing novel and useful biomolecules</h5>
 
 <ul>
     <li>
@@ -184,45 +212,48 @@ The scope of this workshop includes, but not limited to, the following topics.
     <li><b>Identifying the right problems:</b> pressing challenges in biology that
     are difficult to address via traditional means, gap between biological need
     and existing generative algorithms</li>
-</ul>
+</ul> -->
 
-<!-- 
-<h2 class="blackpar_title">Submission Instructions</h2>
-<p>
+
+<h2 class="blackpar_title">Submission Instructions</h2> -->
+<!-- <p>
 <span style="color:red">
 We are inviting experienced researchers to participate in the review process as program committee members.
 If you are interested, please submit your request <a href="https://docs.google.com/forms/d/e/1FAIpQLSc8WQEmqQzKaMXAQ5y-lXKObIE2wQlA41A3rR5NZYOK1CVYXA/viewform?usp=sf_link">here</a>!
 </span>
-</p>
+</p> -->
 <p>
-You are invited to submit your papers in our OpenReview submission <a href="https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/GenBio">portal</a>.
+You are invited to submit your papers in our OpenReview submission <a href="https://openreview.net/group?id=ICML.cc/2025/Workshop/GenBio">portal</a>.
+Submissions can be either short papers (up to 4 pages) or long papers (up to 8 pages), exclusive of unlimited references and appendices following our <a href="https://www.overleaf.com/read/trqkdswkvppd#8cdf17">LaTeX template</a> (edited from ICML 2025 main conference paper template). 
+The maximum size of submissions is 50 MB. While you may include supplementary material or appendices, note that reviewers are not required to evaluate these additional contents.
 All submissions must be anonymous for double-blind review.
-We expect each paper to be reviewed by at least three reviewers.
-The content of the paper (excluding the references and supplementary materials) should not be longer than 4 pages,
-with strict adherence to the NeurIPS template style,
-which can be found <a href="https://neurips.cc/Conferences/2023/PaperInformation/StyleFiles">here</a>.
+<!-- We expect each paper to be reviewed by at least three reviewers. -->
+<!-- with strict adherence to the NeurIPS template style, -->
+<!-- which can be found <a href="https://neurips.cc/Conferences/2023/PaperInformation/StyleFiles">here</a>. -->
 </p>
-<p>
+<!-- <p>
 Authors may submit up to 100 MB of supplementary materials separately.
 Authors are highly encouraged to submit their code for reproducibility.
-</p>
+</p> -->
 <p>
-According to the NeurIPS workshop guidelines, we do not encourage the
-re-submission of already-published papers,
-but you are allowed to submit ArXiv pre-prints or those currently under submission.
-Moreover, a work that is presented at the NeurIPS main conference should not appear in a workshop.
+According to the ICML workshop guidelines, we do not encourage the
+re-submission of already-published papers, but you are allowed to submit ArXiv pre-prints or those currently under submission. Moreover, a work that is presented at the ICML main conference should not appear in a workshop.
 Please be sure to indicate conflicts of interest for all authors on your paper.
 </p>
 <p>
-To encourage higher quality submissions, outstanding submissions will also be selected for oral presentations.
-Bear in mind that our workshop is not archival,
-but accepted papers will be hosted on the workshop website.
-</p> -->
+Accepted papers will be presented as posters during the poster sessions. Selected works will also be highlighted as Spotlight talks.
+<!-- To encourage higher quality submissions, outstanding submissions will also be selected for oral presentations. -->
+<!-- Bear in mind that our workshop is not archival, -->
+<!-- but accepted papers will be hosted on the workshop website. -->
+</p>
 
 <!-- # Confirmed Speakers & Panelists -->
-<h2 class="blackpar_title" id="speakers">Confirmed (Tentative) Speaker</h2> 
+<h2 class="blackpar_title" id="speakers">Speakers</h2> 
 <p>
 {% include speakers.html %}
+</p>
+<p>
+More invited speakers TBA.
 </p>
 
 
