@@ -1,10 +1,10 @@
 - title: Overview
-  url: "{{ site.baseurl }}/index.html#overview"
+  url: "/index.html#overview" | relative_url
 # - title: Schedule
 #   url: https://neurips.cc/virtual/2023/workshop/66505
 - title: Speakers
-  url: "{{ site.baseurl }}/index.html#speakers"
+  url: "/index.html#speakers" | relative_url
 - title: Organizers
-  url: "{{ site.baseurl }}/index.html#organizers"
+  url: "/index.html#organizers" | relative_url
 # - title: Accepted papers
   # url: https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/GenBio
