@@ -6,6 +6,8 @@ description: > # this means to ignore newlines until "show_excerpts:"
   GenBio focuses on solving fundamental problems in biology
   through generative AI.
 
+baseurl: "/2025"
+
 # Customized links for main menu
 header_menu:
 #  - title:Call for papers
