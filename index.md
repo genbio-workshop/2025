@@ -65,7 +65,7 @@ We look forward to your participation in this exciting discourse on the future o
 All deadlines are 11:59 pm UTC -12h ("Anywhere on Earth"). All authors must have an OpenReview profile when submitting.
 <p>
 <ul>
-    <li>Submission Deadline: 20th May, 2025</li>
+    <li>Submission Deadline: 25th May, 2025</li>
     <!-- <li>Review Bidding Period: 20th-22nd May, 2025</li> -->
     <li>Reviewer deadline: 6th June, 2025</li>
     <li>AC decision deadline: 8th June, 2025</li>
