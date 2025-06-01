@@ -1,28 +1,28 @@
 - num_row: 1
   speakers:
-    - name: A
-      affiliation: Google Brain
-      photo: sample.png
-    - name: A
-      affiliation: Google Brain
-      photo: sample.png
-    - name: A
-      affiliation: Google Brain
-      photo: sample.png
-    - name: A
-      affiliation: Google Brain
-      photo: sample.png
-- num_row: 2
-  speakers:
-    - name: A
-      affiliation: Google Brain
-      photo: sample.png
-    - name: A
-      affiliation: Google Brain
-      photo: sample.png
-    - name: A
-      affiliation: Google Brain
-      photo: sample.png
-    - name: A
-      affiliation: Google Brain
-      photo: sample.png
+    - name: David Li-Bland
+      affiliation: Genesis Therapeutics
+      photo: david_li.jpeg
+    - name: Martin Renqiang Min
+      affiliation: NEC Labs
+      photo: martin_min.jpg
+    - name: Arash Vahdat
+      affiliation: NVIDIA
+      photo: arash.jpg
+    # - name: A
+    #   affiliation: Google Brain
+    #   photo: sample.png
+# - num_row: 2
+#   speakers:
+#     - name: A
+#       affiliation: Google Brain
+#       photo: sample.png
+#     - name: A
+#       affiliation: Google Brain
+#       photo: sample.png
+#     - name: A
+#       affiliation: Google Brain
+#       photo: sample.png
+#     - name: A
+#       affiliation: Google Brain
+#       photo: sample.png

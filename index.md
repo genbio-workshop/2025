@@ -261,10 +261,10 @@ More invited speakers TBA.
 </p>
 
 
-<!--<h2 class="blackpar_title" id="speakers">Panelists</h2>
+<h2 class="blackpar_title" id="speakers">Panelists</h2>
 <p>
 {% include panelists.html %}
-</p>-->
+</p>
 
 <!-- Organizers -->
 <h2 class="blackpar_title" id="organizers">Organizers</h2>
