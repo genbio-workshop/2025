@@ -71,17 +71,23 @@ All deadlines are 11:59 pm UTC -12h ("Anywhere on Earth"). All authors must have
     <li>AC decision deadline: 8th June, 2025</li>
     <li>Author Notification: 9th June, 2025</li>
     <li>Camera Ready Deadline: 6th July, 2025</li>
-    <li>Workshop Date: 18 or 19th July 2025</li>
+    <li>Workshop Date: <b>Friday, July 18, 2025</b></li>
     <!-- <li><del>Camera-Ready Submission: November 22, 2023</del></li> -->
     <!-- <li>Workshop Date: <b>Saturday, December 16, 2023</b> (in-person)</li> -->
 </ul>
 </p>
 
-<!-- <p>
-The workshop will be held on December 16 in
-room MR265-268 at the
-Ernest N. Morial Convention Center (900 Convention Center Blvd, New Orleans, LA 70130).
-</p> -->
+<style>
+    .red-text {
+        color: crimson;
+        font-weight: bold;
+    }
+</style>
+
+<p class="red-text">
+The workshop will be held on July 18 in
+Ex Hall A, East Building, Vancouver Convention Center, Vancouver, BC, Canada.
+</p>
 
 <!-- <p>
 Please refer to the Neurips website regarding
