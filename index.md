@@ -80,13 +80,13 @@ All deadlines are 11:59 pm UTC -12h ("Anywhere on Earth"). All authors must have
 <style>
     .red-text {
         color: crimson;
-        font-weight: bold;
+        /* font-weight: 900; */
     }
 </style>
 
 <p class="red-text">
 The workshop will be held on July 18 at
-Ex Hall A, East Building, Vancouver Convention Center, Vancouver, BC, Canada.
+<strong style="font-weight: 900;">Ex Hall A, East Building</strong>, Vancouver Convention Center, Vancouver, BC, Canada.
 </p>
 
 <!-- <p>
