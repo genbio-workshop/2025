@@ -67,9 +67,9 @@ All deadlines are 11:59 pm UTC -12h ("Anywhere on Earth"). All authors must have
 <ul>
     <li><del>Submission Deadline: 25th May, 2025</del></li>
     <!-- <li>Review Bidding Period: 20th-22nd May, 2025</li> -->
-    <li>Reviewer deadline: 6th June, 2025</li>
-    <li>AC decision deadline: 8th June, 2025</li>
-    <li>Author Notification: 9th June, 2025</li>
+    <li><del>Reviewer deadline: 6th June, 2025</del></li>
+    <li><del>AC decision deadline: 8th June, 2025</del></li>
+    <li><del>Author Notification: 9th June, 2025</del></li>
     <li>Camera Ready Deadline: 6th July, 2025</li>
     <li>Workshop Date: <b>Friday, July 18, 2025</b></li>
     <!-- <li><del>Camera-Ready Submission: November 22, 2023</del></li> -->
@@ -103,21 +103,22 @@ Please register via NeurIPS for a virtual pass for access.
 
 
 <!-- Poster instructions -->
-<!-- <h2 class="blackpar_title" id="instructions">Author Instructions</h2>
+<h2 class="blackpar_title" id="instructions">Author Instructions</h2>
 
-<p>
+<!-- <p>
 Posters should be 24W by 36H (vertical) and printed on lightweight paper,
 as they will be affixed to the wall by tape.
 Instructions regarding poster printing can be found
 <a href="https://neurips.cc/FAQ/PosterInformation">here</a>.
 </p> -->
 
-<!-- <p>
-Camera ready manuscripts are due on
-<a href="https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/GenBio">OpenReview</a>
-by November 22, 2023.
-Please update your submissions to 1) include author names and affiliations, and 2) incorporate any desired changes based on your reviews. Your camera-ready should follow the same Neurips style guide, and it may contain up to 5 pages of content (excluding references and appendices).
-</p> -->
+<p>
+Camera ready manuscripts are due by July 6th, 2025.
+<!-- on -->
+<!-- <a href="https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/GenBio">OpenReview</a> -->
+Please update your submissions to (1) include author names and affiliations, and (2) incorporate any desired changes based on your reviews. The camera-ready version may include up to 5 pages of content for short papers and up to 9 pages for long papers, excluding references and appendices.
+<!-- Your camera-ready should follow the same Neurips style guide, and it may contain up to 5 pages of content (excluding references and appendices). -->
+</p>
 
 <!-- <p>
 Papers should indicate that they are NeurIPS Generative AI and Biology
