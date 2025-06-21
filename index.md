@@ -116,7 +116,10 @@ Instructions regarding poster printing can be found
 Camera ready manuscripts are due by July 6th, 2025.
 <!-- on -->
 <!-- <a href="https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/GenBio">OpenReview</a> -->
-Please update your submissions to (1) include author names and affiliations, and (2) incorporate any desired changes based on your reviews. The camera-ready version may include up to 5 pages of content for short papers and up to 9 pages for long papers, excluding references and appendices.
+Please update your submissions to (1) include author names and affiliations, and (2) incorporate any desired changes based on your reviews. The camera-ready version may include up to 5 pages of content for short papers and up to 9 pages for long papers, excluding references and appendices. 
+<p class="red-text">
+The camera-ready version must adhere to our <a href="https://www.overleaf.com/read/trqkdswkvppd#8cdf17">LaTeX template</a>.
+</p>
 <!-- Your camera-ready should follow the same Neurips style guide, and it may contain up to 5 pages of content (excluding references and appendices). -->
 </p>
 
