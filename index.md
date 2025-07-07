@@ -213,13 +213,7 @@ The scope of this workshop includes, but not limited to, the following topics.
 </ul> -->
 
 
-<h2 class="blackpar_title">Submission Instructions</h2>
-<!-- <p>
-<span style="color:red">
-We are inviting experienced researchers to participate in the review process as program committee members.
-If you are interested, please submit your request <a href="https://docs.google.com/forms/d/e/1FAIpQLSc8WQEmqQzKaMXAQ5y-lXKObIE2wQlA41A3rR5NZYOK1CVYXA/viewform?usp=sf_link">here</a>!
-</span>
-</p> -->
+<!-- <h2 class="blackpar_title">Submission Instructions</h2>
 <p>
 You are invited to submit your papers in our OpenReview submission <a href="https://openreview.net/group?id=ICML.cc/2025/Workshop/GenBio">portal</a>.
 </p>
@@ -229,14 +223,7 @@ The maximum size of submissions is 50 MB. While you may include supplementary ma
 </p>
 <p>
 All submissions must be anonymous for double-blind review.
-<!-- We expect each paper to be reviewed by at least three reviewers. -->
-<!-- with strict adherence to the NeurIPS template style, -->
-<!-- which can be found <a href="https://neurips.cc/Conferences/2023/PaperInformation/StyleFiles">here</a>. -->
 </p>
-<!-- <p>
-Authors may submit up to 100 MB of supplementary materials separately.
-Authors are highly encouraged to submit their code for reproducibility.
-</p> -->
 <p>
 According to the ICML workshop guidelines, we do not encourage the
 re-submission of already-published papers, but you are allowed to submit ArXiv pre-prints or those currently under submission. Moreover, a work that is presented at the ICML main conference should not appear in a workshop.
@@ -244,10 +231,7 @@ Please be sure to indicate conflicts of interest for all authors on your paper.
 </p>
 <p>
 Accepted papers will be presented as posters during the poster sessions. Selected works will also be highlighted as Spotlight talks.
-<!-- To encourage higher quality submissions, outstanding submissions will also be selected for oral presentations. -->
-<!-- Bear in mind that our workshop is not archival, -->
-<!-- but accepted papers will be hosted on the workshop website. -->
-</p>
+</p> -->
 
 <!-- # Confirmed Speakers & Panelists -->
 <h2 class="blackpar_title" id="speakers">Speakers</h2> 
@@ -265,7 +249,7 @@ More invited speakers TBA.
 </p>
 
 <!-- Schedule -->
-<h2 class="blackpar_title" id="schedule">Schedule (UTC-6)</h2>
+<h2 class="blackpar_title" id="schedule">Schedule (UTC-7)</h2>
 <p>
 {% include schedule.html %}
 </p>
