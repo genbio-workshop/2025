@@ -238,9 +238,9 @@ Accepted papers will be presented as posters during the poster sessions. Selecte
 <p>
 {% include speakers.html %}
 </p>
-<p>
+<!-- <p>
 More invited speakers TBA.
-</p>
+</p> -->
 
 
 <h2 class="blackpar_title" id="speakers">Panelists</h2>
