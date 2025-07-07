@@ -3,12 +3,18 @@
     - name: David Li-Bland
       affiliation: Genesis Therapeutics
       photo: david_li.jpeg
-    - name: Martin Renqiang Min
-      affiliation: NEC Labs
-      photo: martin_min.jpg
+    # - name: Martin Renqiang Min
+    #   affiliation: NEC Labs
+    #   photo: martin_min.jpg
     - name: Arash Vahdat
       affiliation: NVIDIA
       photo: arash.jpg
+    - name: Mengdi Wang
+      affiliation: Princeton
+      photo: mengdi.jpeg
+    - name: Eric P. Xing
+      affiliation: CMU & MBZUAI
+      photo: eric_xing.jpg
     # - name: A
     #   affiliation: Google Brain
     #   photo: sample.png

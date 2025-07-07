@@ -123,14 +123,10 @@ The camera-ready version must adhere to our <a href="https://www.overleaf.com/re
 <!-- Your camera-ready should follow the same Neurips style guide, and it may contain up to 5 pages of content (excluding references and appendices). -->
 </p>
 
-<!-- <p>
-Papers should indicate that they are NeurIPS Generative AI and Biology
-Workshop 2023 papers by using the stylesheet provided
-<a href="https://www.overleaf.com/latex/templates/neurips-2023-genbio-workshop/tzsxwjkrxnrk">here</a>.
-</p> -->
 
-<!-- Schedule -->
-<!-- <h2 class="blackpar_title" id="schedule">Schedule (UTC-6)</h2>
+
+<!-- Schedule
+<h2 class="blackpar_title" id="schedule">Schedule (UTC-6)</h2>
 <p>
 {% include schedule.html %}
 </p> -->
