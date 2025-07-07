@@ -124,15 +124,7 @@ The camera-ready version must adhere to our <a href="https://www.overleaf.com/re
 </p>
 
 
-
-<!-- Schedule
-<h2 class="blackpar_title" id="schedule">Schedule (UTC-6)</h2>
-<p>
-{% include schedule.html %}
-</p> -->
-
-
-<!-- Call for Papers -->
+<!-- Call for Papers
 <h2 class="blackpar_title" id="call_for_papers">Call for Papers</h2>
 
 <p>
@@ -163,7 +155,7 @@ The scope of this workshop includes, but not limited to, the following topics.
     <li>
         Datasets and benchmarks for advancing AI-based biology research.
     </li>
-</ul>
+</ul> -->
 
 
 <!-- <h5>Designing and optimizing novel and useful biomolecules</h5>
@@ -270,6 +262,12 @@ More invited speakers TBA.
 <h2 class="blackpar_title" id="speakers">Panelists</h2>
 <p>
 {% include panelists.html %}
+</p>
+
+<!-- Schedule -->
+<h2 class="blackpar_title" id="schedule">Schedule (UTC-6)</h2>
+<p>
+{% include schedule.html %}
 </p>
 
 <!-- Organizers -->
