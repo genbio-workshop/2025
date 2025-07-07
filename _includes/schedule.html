@@ -7,62 +7,113 @@
 <!-- <a href="https://neurips.cc/virtual/2023/workshop/66505">here</a>. -->
 
 {% else %}
-	{% for event in schedule %}
-		{% if event.Abstract %}
-			<div class="modal fade" id="talk_{{ forloop.index }}" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-				<div class="modal-dialog">
-					<div class="modal-content">
-						<div class="modal-body">
-							<b>Title:</b> {{ event.Title }}
-							<br>
-							<b>Presenter:</b> {{ event.Presenter }}
-							<br>
-							{% if event.Is_paper == false %}
-								<b>Bio</b><p class="par_panel_perso">{{ event.Bio }} </p>
-							{% else %}
-								<b>Authors</b><p class="par_panel_perso">{{ event.Authors }} </p>
-							{% endif %}
-							<b>Abstract</b><p class="par_panel_perso">{{ event.Abstract }} </p>
-						</div>
-						<div class="modal-footer">
-							<button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-						</div>
-					</div>
-				</div>
-			</div>
-		{% endif %}
-	{% endfor %}
-	<div class="row">
-		<table id="customers">
-			<tr>
-				<th>Time</th>
-				<th colspan="2">Title</th>
-				<!-- <th>Presenter</th> -->
-			</tr>
-			{% for event in schedule %}
-				<tr>
-					<td>{{ event.Time }}</td>
+    {% for event in schedule %}
+        {% if event.Abstract %}
+            <div class="modal fade" id="talk_{{ forloop.index }}" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-body">
+                            <b>Title:</b> {{ event.Title }}
+                            <br>
+                            <b>Presenter:</b> {{ event.Presenter }}
+                            <br>
+                            {% if event.Is_paper == false %}
+                                <b>Bio</b><p class="par_panel_perso">{{ event.Bio }} </p>
+                            {% else %}
+                                <b>Authors</b><p class="par_panel_perso">{{ event.Authors }} </p>
+                            {% endif %}
+                            <b>Abstract</b><p class="par_panel_perso">{{ event.Abstract }} </p>
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        {% endif %}
+    {% endfor %}
+    
+    <style>
+        .schedule-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 25px 0;
+            font-size: 0.9em;
+            font-family: sans-serif;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+        }
+        
+        .schedule-table thead tr {
+            background-color: #2c3e50;
+            color: #ffffff;
+            text-align: left;
+        }
+        
+        .schedule-table th,
+        .schedule-table td {
+            padding: 12px 15px;
+            border: 1px solid #dddddd;
+        }
+        
+        .schedule-table tbody tr {
+            border-bottom: 1px solid #dddddd;
+            background-color: #f8f9fa;
+            color: #333333;
+        }
+        
+        .schedule-table tbody tr:nth-of-type(even) {
+            background-color: #e9ecef;
+        }
+        
+        .schedule-table tbody tr:last-of-type {
+            border-bottom: 2px solid #2c3e50;
+        }
+        
+        .schedule-table tbody tr:hover {
+            background-color: #d1e7ff;
+        }
+        
+        .info-icon {
+            color: #2c3e50;
+            transition: color 0.3s;
+        }
+        
+        .info-icon:hover {
+            color: #1a6fc9;
+        }
+    </style>
+    
+    <div class="row">
+        <table class="schedule-table">
+            <thead>
+                <tr>
+                    <th>Time</th>
+                    <th>Title</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for event in schedule %}
+                    <tr>
+                        <td>{{ event.Time }}</td>
 
-					{% if event.Whole_line == true%}
-						<td colspan='3'>{{ event.Title }}</td>
-					{% else %}
-						{% if event.Abstract %}
-							<td>{{ event.Title }}</td>
-							<td>
-								<center>
-									<a href="" data-bs-toggle="modal" data-bs-target="#talk_{{ forloop.index }}">
-										<i class="bi bi-info-circle" style="font-size: 1.4rem;"></i>
-									</a>
-								</center>
-							</td>
-						{% else %}
-							<td colspan='2'>{{ event.Title }}</td>
-						{% endif %}
-						<!-- <td>{{ event.Presenter }}</td> -->
-					{% endif %}
-				</tr>
-			{% endfor %}
-			<!-- -->
-		</table>
-	</div>
+                        {% if event.Whole_line == true %}
+                            <td colspan='2'>{{ event.Title }}</td>
+                        {% else %}
+                            {% if event.Abstract %}
+                                <td>{{ event.Title }}</td>
+                                <td style="text-align: center; width: 50px;">
+                                    <a href="" data-bs-toggle="modal" data-bs-target="#talk_{{ forloop.index }}">
+                                        <i class="bi bi-info-circle info-icon" style="font-size: 1.4rem;"></i>
+                                    </a>
+                                </td>
+                            {% else %}
+                                <td colspan='2'>{{ event.Title }}</td>
+                            {% endif %}
+                        {% endif %}
+                    </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
 {% endif %}
