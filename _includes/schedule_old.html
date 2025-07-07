@@ -2,9 +2,9 @@
 {% assign size = schedule.size %}
 {% if size == False %}
 
-<!-- A preliminary day-of schedule -->
-<!-- can be found -->
-<!-- <a href="https://neurips.cc/virtual/2023/workshop/66505">here</a>. -->
+A preliminary day-of schedule
+can be found
+<a href="https://neurips.cc/virtual/2023/workshop/66505">here</a>.
 
 {% else %}
 	{% for event in schedule %}
@@ -37,7 +37,7 @@
 			<tr>
 				<th>Time</th>
 				<th colspan="2">Title</th>
-				<!-- <th>Presenter</th> -->
+				<th>Presenter</th>
 			</tr>
 			{% for event in schedule %}
 				<tr>
@@ -58,7 +58,7 @@
 						{% else %}
 							<td colspan='2'>{{ event.Title }}</td>
 						{% endif %}
-						<!-- <td>{{ event.Presenter }}</td> -->
+						<td>{{ event.Presenter }}</td>
 					{% endif %}
 				</tr>
 			{% endfor %}
