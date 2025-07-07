@@ -34,13 +34,18 @@
     {% endfor %}
     
     <style>
+        .schedule-container {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        
         .schedule-table {
             width: 100%;
             border-collapse: collapse;
             margin: 25px 0;
             font-size: 0.9em;
             font-family: sans-serif;
-            box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
         }
         
         .schedule-table thead tr {
@@ -51,8 +56,12 @@
         
         .schedule-table th,
         .schedule-table td {
-            padding: 12px 15px;
+            padding: 10px 12px;
             border: 1px solid #dddddd;
+        }
+        
+        .schedule-table th:first-child {
+            width: 20%;
         }
         
         .schedule-table tbody tr {
@@ -81,15 +90,23 @@
         .info-icon:hover {
             color: #1a6fc9;
         }
+        
+        .title-cell {
+            width: 75%;
+        }
+        
+        .action-cell {
+            width: 5%;
+            text-align: center;
+        }
     </style>
     
-    <div class="row">
+    <div class="schedule-container">
         <table class="schedule-table">
             <thead>
                 <tr>
                     <th>Time</th>
                     <th>Title</th>
-                    <th></th>
                 </tr>
             </thead>
             <tbody>
@@ -98,17 +115,17 @@
                         <td>{{ event.Time }}</td>
 
                         {% if event.Whole_line == true %}
-                            <td colspan='2'>{{ event.Title }}</td>
+                            <td colspan='1'>{{ event.Title }}</td>
                         {% else %}
                             {% if event.Abstract %}
-                                <td>{{ event.Title }}</td>
-                                <td style="text-align: center; width: 50px;">
+                                <td class="title-cell">
+                                    {{ event.Title }}
                                     <a href="" data-bs-toggle="modal" data-bs-target="#talk_{{ forloop.index }}">
-                                        <i class="bi bi-info-circle info-icon" style="font-size: 1.4rem;"></i>
+                                        <i class="bi bi-info-circle info-icon" style="font-size: 1.2rem; margin-left: 8px;"></i>
                                     </a>
                                 </td>
                             {% else %}
-                                <td colspan='2'>{{ event.Title }}</td>
+                                <td>{{ event.Title }}</td>
                             {% endif %}
                         {% endif %}
                     </tr>
