@@ -36,15 +36,21 @@
       title: Prof.
       affiliation: CMU & MBZUAI
       photo: eric_xing.jpg
-    # - name: Ge Liu
-    #   title: Prof.
-    #   affiliation: UIUC
-    #   photo: liuge.png
-    # - name: Frank Noé
-    #   title: Dr.
-    #   affiliation: Microsoft Research
-    #   photo: frank.jpg
 
+- num_row: 3
+  speakers:
+  - name: Maruan Al-Shedivat
+    title: Dr.
+    affiliation: Genesis Therapeutics
+    photo: maruan.jpg
+  - name: David Li-Bland
+    title: Dr.
+    affiliation: Genesis Therapeutics
+    photo: david_li.jpeg
+  - name: Arash Vahdat
+    title: Dr.
+    affiliation: NVIDIA
+    photo: arash.jpg
 # - num_row: 3
 #   speakers:
 #     - name: Jian Tang

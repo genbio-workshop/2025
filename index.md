@@ -234,7 +234,7 @@ Accepted papers will be presented as posters during the poster sessions. Selecte
 </p> -->
 
 <!-- # Confirmed Speakers & Panelists -->
-<h2 class="blackpar_title" id="speakers">Speakers</h2> 
+<h2 class="blackpar_title" id="speakers">Speakers & Panelists</h2> 
 <p>
 {% include speakers.html %}
 </p>
@@ -243,10 +243,10 @@ More invited speakers TBA.
 </p> -->
 
 
-<h2 class="blackpar_title" id="speakers">Panelists</h2>
+<!-- <h2 class="blackpar_title" id="speakers">Panelists</h2>
 <p>
 {% include panelists.html %}
-</p>
+</p> -->
 
 <!-- Schedule -->
 <h2 class="blackpar_title" id="schedule">Schedule (UTC-7)</h2>
