@@ -1,6 +1,6 @@
 - Title: Opening
   Time: 8:30-8:45
-#  Whole_line: false
+  Whole_line: true
 - Title: "Invited keynote talk: Generative AI for Antibiotic Discovery and Synthetic Biology"
   Presenter: James J. Collins
   Time: 8:45-9:25
@@ -12,11 +12,9 @@
   Presenter: David Baker
   Time: 10:00-11:00
   Abstract: Proteins mediate the critical processes of life and beautifully solve the challenges faced during the evolution of modern organisms.  The focus of our lab is the design of a new generation of proteins that address current-day problems not faced during evolution. In contrast to traditional protein engineering efforts which modify naturally occurring proteins, we design new proteins from scratch to optimally solve these problems. We develop and use deep learning methods to design these new proteins with new functions, produce synthetic genes encoding the designs, and characterize them experimentally. In this talk, I will describe the design of proteins to address current challenges in health, technology, and sustainability.
-#  Presenter: TBD
-#  Is_paper: false
+  Is_paper: false
 #  Whole_line: false
 #  Bio: TBD
-#  Abstract: TBD
 - Title: "Invited keynote talk: Martin Renqiang Min"
   Time: 11:00-11:40
 - Title: "Spotlight 2"
