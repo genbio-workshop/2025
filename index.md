@@ -60,6 +60,13 @@ critical insights into the future of generative-AI-driven biology.
 We look forward to your participation in this exciting discourse on the future of biology and AI.
 </p>
 
+<!-- Schedule -->
+<h2 class="blackpar_title" id="schedule">Schedule (UTC-7)</h2>
+<p>
+{% include schedule.html %}
+</p>
+
+
 <h2 class="blackpar_title" id="deadlines">Important information</h2>
 <p>
 All deadlines are 11:59 pm UTC -12h ("Anywhere on Earth"). All authors must have an OpenReview profile when submitting.
@@ -247,12 +254,6 @@ More invited speakers TBA.
 <p>
 {% include panelists.html %}
 </p> -->
-
-<!-- Schedule -->
-<h2 class="blackpar_title" id="schedule">Schedule (UTC-7)</h2>
-<p>
-{% include schedule.html %}
-</p>
 
 <!-- Organizers -->
 <h2 class="blackpar_title" id="organizers">Organizers</h2>

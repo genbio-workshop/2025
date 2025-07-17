@@ -1,38 +1,38 @@
 - Title: Opening
   Time: 8:30-8:45
 #  Whole_line: false
-- Title: "Invited speaker: James J. Collins"
+- Title: "Invited keynote talk: James J. Collins"
   Time: 8:45-9:25
 - Title: "Spotlight 1"
   Time: 9:25-9:35
 - Title: "Poster and break"
   Time: 9:35-10:00
-- Title: "Invited speaker: David Baker"
+- Title: "Invited keynote talk: David Baker"
   Time: 10:00-11:00
 #  Presenter: TBD
 #  Is_paper: false
 #  Whole_line: false
 #  Bio: TBD
 #  Abstract: TBD
-- Title: "Invited speaker: Martin Renqiang Min"
+- Title: "Invited keynote talk: Martin Renqiang Min"
   Time: 11:00-11:40
 - Title: "Spotlight 2"
   Time: 11:40-12:00
 - Title: "Poster and lunch"
   Time: 12:00-13:00
-- Title: "Invited speaker: Mengdi Wang"
+- Title: "Invited keynote talk: Mengdi Wang"
   Time: 13:00-13:40
-- Title: "Invited speaker: Marinka Zitnik"
+- Title: "Invited keynote talk: Marinka Zitnik"
   Time: 13:40-14:20
-- Title: "Invited speaker: Maruan Al-Shedivat"
+- Title: "Invited talk: Maruan Al-Shedivat"
   Time: 14:20-14:35
 - Title: "Spotlight 3"
   Time: 14:35-14:55
 - Title: "Poster and break"
   Time: 14:55-15:30
-- Title: "Invited speaker: Eric P. Xing"
+- Title: "Invited keynote talk: Eric P. Xing"
   Time: 15:30-16:10
-- Title: "Panel discussion: Arash Vahdat, David Li-Bland, Eric P. Xing, and Mengdi Wang."
+- Title: "Panel discussion: Arash Vahdat, David Li-Bland, Eric P. Xing, Marinka Zitnik, Martin Renqiang Min and Mengdi Wang."
   Time: 16:10-17:40
 - Title: "Award and Closing"
   Time: 17:40-18:00
