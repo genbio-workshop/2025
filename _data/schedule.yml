@@ -1,13 +1,15 @@
 - Title: Opening
   Time: 8:30-8:45
 #  Whole_line: false
-- Title: "Invited keynote talk: James J. Collins"
+- Title: "Invited keynote talk: Generative AI for Antibiotic Discovery and Synthetic Biology"
+  Presenter: James J. Collins
   Time: 8:45-9:25
 - Title: "Spotlight 1"
   Time: 9:25-9:35
 - Title: "Poster and break"
   Time: 9:35-10:00
-- Title: "Invited keynote talk: David Baker"
+- Title: "Invited keynote talk: Design of new protein functions using deep learning"
+  Presenter: David Baker
   Time: 10:00-11:00
 #  Presenter: TBD
 #  Is_paper: false
