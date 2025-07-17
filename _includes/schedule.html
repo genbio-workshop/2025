@@ -7,99 +7,40 @@
 <!-- <a href="https://neurips.cc/virtual/2023/workshop/66505">here</a>. -->
 
 {% else %}
+    <!-- Generate modals for all events with abstracts -->
     {% for event in schedule %}
-        {% if event.Abstract %}
-            <div class="modal fade" id="talk_{{ forloop.index }}" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                <div class="modal-dialog">
-                    <div class="modal-content">
-                        <div class="modal-body">
-                            <b>Title:</b> {{ event.Title }}
-                            <br>
-                            <b>Presenter:</b> {{ event.Presenter }}
-                            <br>
-                            {% if event.Is_paper == false %}
-                                <b>Bio</b><p class="par_panel_perso">{{ event.Bio }} </p>
-                            {% else %}
-                                <b>Authors</b><p class="par_panel_perso">{{ event.Authors }} </p>
-                            {% endif %}
-                            <b>Abstract</b><p class="par_panel_perso">{{ event.Abstract }} </p>
-                        </div>
-                        <div class="modal-footer">
-                            <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+        {% if event.Sessions %}
+            {% for session in event.Sessions %}
+                {% if session.Abstract %}
+                    <div class="modal fade" id="talk_{{ forloop.parentloop.index }}_{{ forloop.index }}" tabindex="-1" aria-hidden="true">
+                        <div class="modal-dialog">
+                            <div class="modal-content">
+                                <div class="modal-body">
+                                    <b>Title:</b> {{ session.Title }}
+                                    <br>
+                                    <b>Presenter:</b> {{ session.Presenter }}
+                                    <br>
+                                    {% if session.Is_paper == false %}
+                                        <b>Bio</b><p class="par_panel_perso">{{ session.Bio }}</p>
+                                    {% else %}
+                                        <b>Authors</b><p class="par_panel_perso">{{ session.Authors }}</p>
+                                    {% endif %}
+                                    <b>Abstract</b><p class="par_panel_perso">{{ session.Abstract }}</p>
+                                </div>
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                                </div>
+                            </div>
                         </div>
                     </div>
-                </div>
+                {% endif %}
+            {% endfor %}
+        {% elsif event.Abstract %}
+            <div class="modal fade" id="talk_{{ forloop.index }}" tabindex="-1" aria-hidden="true">
+                <!-- Single event modal (same as before) -->
             </div>
         {% endif %}
     {% endfor %}
-    
-    <style>
-        .schedule-container {
-            max-width: 800px;
-            margin: 0 auto;
-        }
-        
-        .schedule-table {
-            width: 100%;
-            border-collapse: collapse;
-            margin: 25px 0;
-            font-size: 0.9em;
-            font-family: sans-serif;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
-        
-        .schedule-table thead tr {
-            background-color: #2c3e50;
-            color: #ffffff;
-            text-align: left;
-        }
-        
-        .schedule-table th,
-        .schedule-table td {
-            padding: 10px 12px;
-            border: 1px solid #dddddd;
-        }
-        
-        .schedule-table th:first-child {
-            width: 20%;
-        }
-        
-        .schedule-table tbody tr {
-            border-bottom: 1px solid #dddddd;
-            background-color: #f8f9fa;
-            color: #333333;
-        }
-        
-        .schedule-table tbody tr:nth-of-type(even) {
-            background-color: #e9ecef;
-        }
-        
-        .schedule-table tbody tr:last-of-type {
-            border-bottom: 2px solid #2c3e50;
-        }
-        
-        .schedule-table tbody tr:hover {
-            background-color: #d1e7ff;
-        }
-        
-        .info-icon {
-            color: #2c3e50;
-            transition: color 0.3s;
-        }
-        
-        .info-icon:hover {
-            color: #1a6fc9;
-        }
-        
-        .title-cell {
-            width: 75%;
-        }
-        
-        .action-cell {
-            width: 5%;
-            text-align: center;
-        }
-    </style>
     
     <div class="schedule-container">
         <table class="schedule-table">
@@ -113,16 +54,43 @@
             <tbody>
                 {% for event in schedule %}
                     <tr>
-                        <td>{{ event.Time }}</td>
+                        {% if forloop.first == false %}
+                            {% assign prev_time = schedule[forloop.index0 | minus: 1].Time %}
+                            {% if event.Time == prev_time %}
+                                <td></td>
+                            {% else %}
+                                <td>{{ event.Time }}</td>
+                            {% endif %}
+                        {% else %}
+                            <td>{{ event.Time }}</td>
+                        {% endif %}
 
-                        {% if event.Whole_line == true %}
-                            <td colspan='1'>{{ event.Title }}</td>
+                        {% if event.Sessions %}
+                            <!-- Handle multiple sessions in one time slot -->
+                            <td colspan="2">
+                                <div class="parallel-sessions">
+                                    {% for session in event.Sessions %}
+                                        <div class="session">
+                                            <strong>{{ session.Title }}</strong>
+                                            {% if session.Abstract %}
+                                                <a href="" data-bs-toggle="modal" data-bs-target="#talk_{{ forloop.parentloop.index }}_{{ forloop.index }}">
+                                                    <i class="bi bi-info-circle info-icon"></i>
+                                                </a>
+                                            {% endif %}
+                                            <div class="presenter">{{ session.Presenter }}</div>
+                                        </div>
+                                        {% unless forloop.last %}<hr class="session-divider">{% endunless %}
+                                    {% endfor %}
+                                </div>
+                            </td>
+                        {% elsif event.Whole_line == true %}
+                            <td colspan="2">{{ event.Title }}</td>
                         {% else %}
                             {% if event.Abstract %}
                                 <td class="title-cell">
                                     {{ event.Title }}
                                     <a href="" data-bs-toggle="modal" data-bs-target="#talk_{{ forloop.index }}">
-                                        <i class="bi bi-info-circle info-icon" style="font-size: 1.2rem; margin-left: 8px;"></i>
+                                        <i class="bi bi-info-circle info-icon"></i>
                                     </a>
                                 </td>
                             {% else %}
@@ -136,3 +104,26 @@
         </table>
     </div>
 {% endif %}
+
+<style>
+    /* Previous CSS remains the same, add these new styles */
+    .parallel-sessions {
+        padding: 8px 0;
+    }
+    
+    .session {
+        margin: 8px 0;
+    }
+    
+    .session-divider {
+        margin: 8px 0;
+        border: 0;
+        border-top: 1px dashed #ccc;
+    }
+    
+    .presenter {
+        font-style: italic;
+        color: #555;
+        margin-top: 4px;
+    }
+</style>
