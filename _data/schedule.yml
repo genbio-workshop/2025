@@ -6,21 +6,8 @@
   Bio: Professor James J. Collins, a true pioneer in the fields of medical engineering and synthetic biology. Professor Collins holds the prestigious title of Termeer Professor of Medical Engineering and Science at MIT. He is also a Core Faculty Member of the Wyss Institute for Biologically Inspired Engineering at Harvard University, and an Institute Member at the Broad Institute of MIT and Harvard. Professor Collins is widely recognized for his groundbreaking work, which includes the development of foundational technologies in synthetic biology, such as the gene toggle switch. His innovative research spans various areas, including antimicrobial resistance, diagnostics, and novel therapeutic development, profoundly impacting our understanding and ability to engineer biological systems.
   Is_paper: false
   Abstract: "In this talk, we highlight how we are using generative AI for antibiotic discovery and synthetic biology. In the first part of the talk, we focus on the Antibiotics-AI Project, which is a multi-disciplinary, innovative research program that is leveraging MIT's strengths in artificial intelligence, bioengineering, and the life sciences to discover and design novel classes of antibiotics. The Antibiotics-AI Project is focused on developing, integrating and implementing deep learning models and chemogenomic screening approaches: (1) to predict novel antibiotics from expansive chemical libraries with diverse properties, (2) to design de novo novel antibiotics based on learned structural and functional properties of existing and newly discovered antibiotics, and (3) to identify, using explainable deep learning models, the chemical structures and molecular mechanisms underlying the newly discovered and/or designed antibiotics.Our platform has been designed so that it can be utilized and applied in a rapid fashion to emerging and re-emerging bacterial pathogens, including multidrug-resistant (MDR) bacteria and extensively drug-resistant (XDR) bacteria. In the second part of the talk, we focus on synthetic biology, which is an emerging field that is bringing together engineers, computer scientists and biologists to model, design and construct biological circuits out of proteins, genes and other bits of DNA, and to use these circuits to rewire and reprogram organisms.  These re-engineered organisms are going to change our lives in the coming years, leading to cheaper drugs, rapid diagnostic tests, and synthetic probiotics to treat infections and a range of complex diseases. We highlight recent efforts that use generative AI in the context of synthetic biology to create novel classes of diagnostics, therapeutics, and programmable molecular tools for the life sciences."
-# - Title: "Spotlight 1:<br>MINT: Multimodal Integrated Knowledge Transfer to Large Language Models through Preference Optimization with Biomedical Applications<br>*Da Wu, Zhanliang Wang, Quan Minh Nguyen, Zhuoran Xu, Kai Wang*"
-  # Time: 9:25-9:35
-- Session_Title: "Spotlight 1"
+- Title: "Spotlight 1:<br><i>MINT: Multimodal Integrated Knowledge Transfer to Large Language Models through Preference Optimization with Biomedical Application</i>s<br>Da Wu, Zhanliang Wang, Quan Minh Nguyen, Zhuoran Xu, Kai Wang"
   Time: 9:25-9:35
-  Sessions:
-    - Title: "MINT: Multimodal Integrated Knowledge Transfer to Large Language Models through Preference Optimization with Biomedical Applications"
-      # Presenter: "Da Wu, Zhanliang Wang, Quan Minh Nguyen, Zhuoran Xu, Kai Wan"
-      # Abstract: "Abstract text here..."
-      Is_paper: true
-      Authors: "Da Wu, Zhanliang Wang, Quan Minh Nguyen, Zhuoran Xu, Kai Wan"
-    # - Title: "Reinforcement Learning Breakthroughs"
-    #   Presenter: "Prof. Bob Jones"
-    #   Abstract: "Another abstract..."
-    #   Is_paper: true
-    #   Authors: "Jones B, Williams C"
 - Title: "Poster and break"
   Time: 9:35-10:00
 - Title: "Invited keynote talk: Design of new protein functions using deep learning"
