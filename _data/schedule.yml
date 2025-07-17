@@ -1,9 +1,11 @@
 - Title: Opening
   Time: 8:30-8:45
-  Whole_line: true
 - Title: "Invited keynote talk: Generative AI for Antibiotic Discovery and Synthetic Biology"
   Presenter: James J. Collins
   Time: 8:45-9:25
+  Bio: Professor James J. Collins, a true pioneer in the fields of medical engineering and synthetic biology. Professor Collins holds the prestigious title of Termeer Professor of Medical Engineering and Science at MIT. He is also a Core Faculty Member of the Wyss Institute for Biologically Inspired Engineering at Harvard University, and an Institute Member at the Broad Institute of MIT and Harvard. Professor Collins is widely recognized for his groundbreaking work, which includes the development of foundational technologies in synthetic biology, such as the gene toggle switch. His innovative research spans various areas, including antimicrobial resistance, diagnostics, and novel therapeutic development, profoundly impacting our understanding and ability to engineer biological systems.
+  Is_paper: false
+  # Abstract:
 - Title: "Spotlight 1"
   Time: 9:25-9:35
 - Title: "Poster and break"
@@ -14,25 +16,45 @@
   Abstract: Proteins mediate the critical processes of life and beautifully solve the challenges faced during the evolution of modern organisms.  The focus of our lab is the design of a new generation of proteins that address current-day problems not faced during evolution. In contrast to traditional protein engineering efforts which modify naturally occurring proteins, we design new proteins from scratch to optimally solve these problems. We develop and use deep learning methods to design these new proteins with new functions, produce synthetic genes encoding the designs, and characterize them experimentally. In this talk, I will describe the design of proteins to address current challenges in health, technology, and sustainability.
   Is_paper: false
 #  Whole_line: false
-#  Bio: TBD
-- Title: "Invited keynote talk: Martin Renqiang Min"
+  # Bio: 
+- Title: "Invited keynote talk: Agentic Generative Biomedicine"
   Time: 11:00-11:40
+  Presenter: Martin Renqiang Min
+  Abstract: Owing to the availability of large-scale multimodal biomedical data and advancement of AI technologies, generative biomedicine for simulating digital cells and patients becomes feasible, which will potentially disrupt drug discovery. In this talk, first I will introduce the concept of generative biomedicine. Then I will present a privacy-preserving framework that combines large language models with autonomous agents (generative models) to drive biomedical discovery. Finally, I will discuss some of our recent generative AI models for 3D molecule optimization, T-Cell Receptor design, and protein-protein complex sequence-structure co-design.
+  Bio: Martin Renqiang Min is currently the head of the Machine Learning Department, NEC Laboratories America. He received his MSc and PhD degrees in Computer Science from Machine Learning Group, Department of Computer Science, University of Toronto. He did a one-year postdoc at Yale University. His research interests include machine learning and biomedical informatics, focusing on representation learning, generative models, multimodal reasoning, generative biomedicine, and omics for personalized healthcare.
+  Is_paper: false
 - Title: "Spotlight 2"
   Time: 11:40-12:00
 - Title: "Poster and lunch"
   Time: 12:00-13:00
-- Title: "Invited keynote talk: Mengdi Wang"
+- Title: "Invited keynote talk"
+  Presenter: Mengdi Wang
+  # Abstract: 
+  # Bio: 
+  Is_paper: false
   Time: 13:00-13:40
-- Title: "Invited keynote talk: Marinka Zitnik"
+- Title: "Invited keynote talk: Empowering biomedical discovery with \"AI scientists\""
+  Presenter: Marinka Zitnik
   Time: 13:40-14:20
-- Title: "Invited talk: Maruan Al-Shedivat"
+  Bio: Marinka Zitnik is an Associate Professor at Harvard in the Department of Biomedical Informatics. Dr. Zitnik is Associate Faculty at the Kempner Institue for the Study of Natural and Artificial Intelligence, Broad Institute of MIT and Harvard, and Harvard Data Science. Dr. Zitnik investigates foundations of AI to enhance scientific discovery and facilitate individualized diagnosis and treatment in medicine. Before joining Harvard, she was a postdoctoral scholar in Computer Science at Stanford University. She was also a member of the Chan Zuckerberg Biohub at Stanford. She received her bachelor’s degree, double majoring in computer science and mathematics, and then graduated with a Ph.D. in Computer Science from University of Ljubljana just three years later while also researching at Imperial College London, University of Toronto, Baylor College of Medicine, and Stanford University.
+  Is_paper: false
+  # Abstract: 
+- Title: "Invited talk"
   Time: 14:20-14:35
+  Presenter: Maruan Al-Shedivat
+  # Abstract: 
+  # Bio: 
+  Is_paper: false
 - Title: "Spotlight 3"
   Time: 14:35-14:55
 - Title: "Poster and break"
   Time: 14:55-15:30
-- Title: "Invited keynote talk: Eric P. Xing"
+- Title: "Invited keynote talk"
   Time: 15:30-16:10
+  Presenter: Eric P. Xing
+  # Abstract: 
+  # Bio: 
+  Is_paper: false
 - Title: "Panel discussion: Arash Vahdat, David Li-Bland, Eric P. Xing, Marinka Zitnik, Martin Renqiang Min and Mengdi Wang."
   Time: 16:10-17:40
 - Title: "Award and Closing"
