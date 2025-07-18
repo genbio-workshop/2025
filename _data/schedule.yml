@@ -16,7 +16,7 @@
   Abstract: Proteins mediate the critical processes of life and beautifully solve the challenges faced during the evolution of modern organisms.  The focus of our lab is the design of a new generation of proteins that address current-day problems not faced during evolution. In contrast to traditional protein engineering efforts which modify naturally occurring proteins, we design new proteins from scratch to optimally solve these problems. We develop and use deep learning methods to design these new proteins with new functions, produce synthetic genes encoding the designs, and characterize them experimentally. In this talk, I will describe the design of proteins to address current challenges in health, technology, and sustainability.
   Is_paper: false
 #  Whole_line: false
-  Bio: 
+  Bio: "David Baker is a Nobel laureate, professor of biochemistry, HHMI investigator, and director of the Institute for Protein Design at the University of Washington. His lab develops software for protein design and uses it to create molecules that address challenges in medicine, technology, and sustainability. Recent work includes the development of machine learning methods for generating functional proteins. David is also an adjunct professor of genome sciences, bioengineering, chemical engineering, computer science, and physics at the University of Washington. He has published more than 650 scientific papers, been awarded over 100 patents, and co-founded 21 biotechnology companies. More than 100 of his trainees have gone on to independent faculty positions. He is the recipient of numerous awards, including the 2024 Nobel Prize in Chemistry\"for computational protein design.\" He is an elected member of the National Academy of Sciences and was included on TIME's list of the 100 Most Influential People in health David received his PhD in biochemistry with Randy Schekman at the University of California, Berkeley, and conducted postdoctoral research in biophysics with David Agard at UCSF."
 - Title: "Invited keynote talk: Agentic Generative Biomedicine"
   Time: 11:00-11:40
   Presenter: Martin Renqiang Min
@@ -30,7 +30,7 @@
 - Title: "Invited keynote talk: From Genome to Theorem: Can AI Agents Do Science?"
   Presenter: Mengdi Wang
   Abstract: "Large Language Models (LLMs) are increasingly being explored as tools for scientific reasoning - not just in language tasks, but across disciplines such as math, biology, and genomics. In this talk, I'll discuss recent developments in AI for science, including genome language models, AI gene-editing co-scientist, and LLMs for math. I'll highlight both the capabilities and current limitations of LLMs, and discuss key gaps between AI and science such as the overoptimism in AI's capabilities and the lack of benchmark and rigorous evaluation. As we push toward AI systems that can assist with discovery, the question remains: can LLMs truly do science - or are we still in the early stages of bridging that divide?"
-  Bio: 
+  Bio: "Mengdi Wang is Co-Director of Princeton AI for Accelerated Invention, and Professor of the Department of Electrical and Computer Engineering and the Center for Statistics and Machine Learning at Princeton University. She is also affiliated with the Department of Computer Science, Omenn-Darling Bioengineering Institute, and Princeton Language+Intelligence. She was a visiting research scientist at Google DeepMind, IAS and Simons Institute on Theoretical Computer Science. Her research focuses on machine learning, reinforcement learning, generative AI, large language models, and AI for science. Mengdi received her PhD in Electrical Engineering and Computer Science from Massachusetts Institute of Technology in 2013, where she was affiliated with the Laboratory for Information and Decision Systems and advised by Dimitri P. Bertsekas. Before that, she got her bachelor degree from the Department of Automation, Tsinghua University. Mengdi received the Young Researcher Prize in Continuous Optimization of the Mathematical Optimization Society in 2016 (awarded once every three years), the Princeton SEAS Innovation Award in 2016, the NSF Career Award in 2017, the Google Faculty Award in 2017,  and the MIT Tech Review 35-Under-35 Innovation Award (China region) in 2018, WAIC YunFan Award 2022, American Automatic Control Council’s Donald Eckman Award 2024 for “extraordinary contributions to the intersection of control, dynamical systems, machine learning and information theory”. She serves as a Program Chair for ICLR 2023 and Senior AC for Neurips, ICML, COLT, associate editor for Harvard Data Science Review, Operations Research. Research supported by NSF, AFOSR, NIH, ONR, Google, Microsoft C3.ai, FinUP, RVAC Medicines, MURI, GenMab."
   Is_paper: false
   Time: 13:00-13:40
 - Title: "Invited keynote talk: Empowering biomedical discovery with \"AI scientists\""
@@ -39,7 +39,7 @@
   Bio: Marinka Zitnik is an Associate Professor at Harvard in the Department of Biomedical Informatics. Dr. Zitnik is Associate Faculty at the Kempner Institue for the Study of Natural and Artificial Intelligence, Broad Institute of MIT and Harvard, and Harvard Data Science. Dr. Zitnik investigates foundations of AI to enhance scientific discovery and facilitate individualized diagnosis and treatment in medicine. Before joining Harvard, she was a postdoctoral scholar in Computer Science at Stanford University. She was also a member of the Chan Zuckerberg Biohub at Stanford. She received her bachelor's degree, double majoring in computer science and mathematics, and then graduated with a Ph.D. in Computer Science from University of Ljubljana just three years later while also researching at Imperial College London, University of Toronto, Baylor College of Medicine, and Stanford University.
   Is_paper: false
   Abstract: 
-- Title: "Invited talk"
+- Title: "Invited talk: Driving Small Molecule Drug Discovery with Generative Modeling"
   Time: 14:20-14:35
   Presenter: Maruan Al-Shedivat
   Abstract: 
@@ -52,8 +52,8 @@
 - Title: "Invited keynote talk"
   Time: 15:30-16:10
   Presenter: Eric P. Xing
-  Abstract: 
-  Bio: 
+  Abstract: "."
+  Bio: "Professor Eric Xing is the President of the Mohamed bin Zayed University of Artificial Intelligence and a Professor of Computer Science at Carnegie Mellon University. His main research interests are the development of machine learning and statistical methodology, and large-scale distributed computational systems and architectures, for solving problems involving automated learning, reasoning, and decision-making in artificial, biological, and social systems. In recent years, he has been focusing on building large language models, world models, agent models, and foundation models for biology. Prof. Xing has served on the editorial boards of several leading journals, including JASA, AOAS, JMLR; was a recipient of several awards, including NSF Career, Sloan, Carnegie Science Award, and best papers in conferences such as ACL, NeurIPS, OSDI, and ISMB; and is a fellow of several societies, including AAAI, ACM, ASA, IEEE, and IMS."
   Is_paper: false
 - Title: "Panel discussion: Arash Vahdat, David Li-Bland, Eric P. Xing, Marinka Zitnik, Martin Renqiang Min and Mengdi Wang."
   Time: 16:10-17:40
