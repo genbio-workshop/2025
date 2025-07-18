@@ -27,16 +27,16 @@
   Time: 11:40-12:00
 - Title: "Poster and lunch"
   Time: 12:00-13:00
-- Title: "Invited keynote talk"
+- Title: "Invited keynote talk: From Genome to Theorem: Can AI Agents Do Science?"
   Presenter: Mengdi Wang
-  Abstract: 
+  Abstract: "Large Language Models (LLMs) are increasingly being explored as tools for scientific reasoning - not just in language tasks, but across disciplines such as math, biology, and genomics. In this talk, I'll discuss recent developments in AI for science, including genome language models, AI gene-editing co-scientist, and LLMs for math. I'll highlight both the capabilities and current limitations of LLMs, and discuss key gaps between AI and science such as the overoptimism in AI's capabilities and the lack of benchmark and rigorous evaluation. As we push toward AI systems that can assist with discovery, the question remains: can LLMs truly do science - or are we still in the early stages of bridging that divide?"
   Bio: 
   Is_paper: false
   Time: 13:00-13:40
 - Title: "Invited keynote talk: Empowering biomedical discovery with \"AI scientists\""
   Presenter: Marinka Zitnik
   Time: 13:40-14:20
-  Bio: Marinka Zitnik is an Associate Professor at Harvard in the Department of Biomedical Informatics. Dr. Zitnik is Associate Faculty at the Kempner Institue for the Study of Natural and Artificial Intelligence, Broad Institute of MIT and Harvard, and Harvard Data Science. Dr. Zitnik investigates foundations of AI to enhance scientific discovery and facilitate individualized diagnosis and treatment in medicine. Before joining Harvard, she was a postdoctoral scholar in Computer Science at Stanford University. She was also a member of the Chan Zuckerberg Biohub at Stanford. She received her bachelor’s degree, double majoring in computer science and mathematics, and then graduated with a Ph.D. in Computer Science from University of Ljubljana just three years later while also researching at Imperial College London, University of Toronto, Baylor College of Medicine, and Stanford University.
+  Bio: Marinka Zitnik is an Associate Professor at Harvard in the Department of Biomedical Informatics. Dr. Zitnik is Associate Faculty at the Kempner Institue for the Study of Natural and Artificial Intelligence, Broad Institute of MIT and Harvard, and Harvard Data Science. Dr. Zitnik investigates foundations of AI to enhance scientific discovery and facilitate individualized diagnosis and treatment in medicine. Before joining Harvard, she was a postdoctoral scholar in Computer Science at Stanford University. She was also a member of the Chan Zuckerberg Biohub at Stanford. She received her bachelor's degree, double majoring in computer science and mathematics, and then graduated with a Ph.D. in Computer Science from University of Ljubljana just three years later while also researching at Imperial College London, University of Toronto, Baylor College of Medicine, and Stanford University.
   Is_paper: false
   Abstract: 
 - Title: "Invited talk"
