@@ -67,6 +67,13 @@ We look forward to your participation in this exciting discourse on the future o
 </p>
 
 
+<h2 class="blackpar_title" id="accepted_paper">Accepted Papers</h2>
+<p>
+Accepted papers are released on our <a href="https://openreview.net/group?id=ICML.cc/2025/Workshop/GenBio">OpenReview portal</a>.
+</p>
+
+
+
 <h2 class="blackpar_title" id="deadlines">Important information</h2>
 <p>
 All deadlines are 11:59 pm UTC -12h ("Anywhere on Earth"). All authors must have an OpenReview profile when submitting.
@@ -129,13 +136,6 @@ The camera-ready version must adhere to our <a href="https://www.overleaf.com/re
 </p>
 <!-- Your camera-ready should follow the same Neurips style guide, and it may contain up to 5 pages of content (excluding references and appendices). -->
 </p>
-
-<h2 class="blackpar_title" id="accepted_paper">Accepted Papers</h2>
-<p>
-Accepted papers are released on our <a href="https://openreview.net/group?id=ICML.cc/2025/Workshop/GenBio">OpenReview portal</a>.
-</p>
-
-
 
 
 <!-- Call for Papers
