@@ -77,10 +77,10 @@ Accepted papers are released on our <a href="https://openreview.net/group?id=ICM
 We are pleased to announce the winners of the Best Paper Awards:  
 </p>
 <p><strong style="color:rgb(16, 103, 189);">A Genomic Language Model for Zero-Shot Prediction of Promoter Indel Effects</strong><br>
-Courtney A. Shearer, Felix Teufel, Rose Orenbuch, Christian J. Steinmetz, Daniel Ritter, Erik Xie, Artem Gazizov, Aviv Spinner, Jonathan Frazer, Mafalda Dias, Pascal Notin, Debora Susan Marks<br><br></p>
+Courtney A. Shearer, Felix Teufel, Rose Orenbuch, Christian J. Steinmetz, Daniel Ritter, Erik Xie, Artem Gazizov, Aviv Spinner, Jonathan Frazer, Mafalda Dias, Pascal Notin, Debora Susan Marks</p>
 
 <p><strong style="color:rgb(16, 103, 189);">BindEnergyCraft: Casting Protein Structure Predictors as Energy-Based Models for Binder Design</strong><br>
-Divya Nori, Anisha Parsan, Caroline Uhler, Wengong Jin<br><br></p>
+Divya Nori, Anisha Parsan, Caroline Uhler, Wengong Jin</p>
 
 <p><strong style="color:rgb(16, 103, 189);">FORT: Forward-Only Regression Training of Normalizing Flows</strong><br>
 Danyal Rehman, Oscar Davis, Jiarui Lu, Jian Tang, Michael M. Bronstein, Yoshua Bengio, Alexander Tong, Joey Bose</p>
